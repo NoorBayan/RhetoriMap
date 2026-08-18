@@ -3,7 +3,8 @@ import numpy as np
 import pandas as pd
 import random
 from torch.utils.data import DataLoader
-from transformers import AutoTokenizer, AdamW, get_linear_schedule_with_warmup
+from transformers import AutoTokenizer, get_linear_schedule_with_warmup
+from torch.optim import AdamW
 from sklearn.metrics import f1_score, accuracy_score
 import torch.nn as nn
 
