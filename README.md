@@ -1,4 +1,3 @@
-إليك الملف بصيغة **Markdown** كاملة ومنسقة بدقة وجاهزة للنسخ مباشرة في ملف `README.md` على GitHub:
 # RhetoriMap
 
 ## Exploring Conceptual Mappings in Classical Arabic Metaphor
