@@ -3,79 +3,86 @@ import torch.nn as nn
 from transformers import AutoModel
 
 class TextOnlyModel(nn.Module):
-    """Model 0: X -> P (Baseline)"""
+    """Model 0: X -> P"""
     def __init__(self, model_name, num_p):
-        super(TextOnlyModel, self).__init__()
+        super().__init__()
         self.encoder = AutoModel.from_pretrained(model_name)
-        self.dropout = nn.Dropout(0.1)
         self.p_head = nn.Linear(self.encoder.config.hidden_size, num_p)
 
-    def forward(self, input_ids, attention_mask):
-        outputs = self.encoder(input_ids=input_ids, attention_mask=attention_mask)
-        pooled_output = self.dropout(outputs.pooler_output)
-        return {'p_logits': self.p_head(pooled_output)}
+    def forward(self, input_ids, attention_mask, **kwargs):
+        out = self.encoder(input_ids=input_ids, attention_mask=attention_mask)
+        return {'p_logits': self.p_head(out.pooler_output)}
 
-
-class ParallelMTLModel(nn.Module):
-    """Model 3: X -> (S, T, P) simultaneously (Shared Encoder Baseline)"""
-    def __init__(self, model_name, num_s, num_t, num_p):
-        super(ParallelMTLModel, self).__init__()
-        self.encoder = AutoModel.from_pretrained(model_name)
-        self.dropout = nn.Dropout(0.1)
-        hidden_size = self.encoder.config.hidden_size
-        
-        self.s_head = nn.Linear(hidden_size, num_s)
-        self.t_head = nn.Linear(hidden_size, num_t)
-        self.p_head = nn.Linear(hidden_size, num_p)
-
-    def forward(self, input_ids, attention_mask):
-        outputs = self.encoder(input_ids=input_ids, attention_mask=attention_mask)
-        pooled_output = self.dropout(outputs.pooler_output)
-        
-        return {
-            's_logits': self.s_head(pooled_output),
-            't_logits': self.t_head(pooled_output),
-            'p_logits': self.p_head(pooled_output)
-        }
-
-
-class ConditionedMTLModel(nn.Module):
-    """Model 4: X -> (S, T), then (X + S_prob + T_prob) -> P (Proposed Framework)"""
-    def __init__(self, model_name, num_s, num_t, num_p):
-        super(ConditionedMTLModel, self).__init__()
-        self.encoder = AutoModel.from_pretrained(model_name)
-        self.dropout = nn.Dropout(0.1)
-        hidden_size = self.encoder.config.hidden_size
-        
-        self.s_head = nn.Linear(hidden_size, num_s)
-        self.t_head = nn.Linear(hidden_size, num_t)
-        
-        # Conditioned Head: takes hidden state + S probabilities + T probabilities
-        cond_input_size = hidden_size + num_s + num_t
-        self.p_head_cond = nn.Sequential(
-            nn.Linear(cond_input_size, hidden_size // 2),
+class MappingOnlyModel(nn.Module):
+    """Model 1: M(S,T) -> P (No text)"""
+    def __init__(self, num_s, num_t, num_p, embed_dim=128):
+        super().__init__()
+        self.s_embed = nn.Embedding(num_s, embed_dim)
+        self.t_embed = nn.Embedding(num_t, embed_dim)
+        self.p_head = nn.Sequential(
+            nn.Linear(embed_dim * 2, embed_dim),
             nn.ReLU(),
-            nn.Dropout(0.1),
-            nn.Linear(hidden_size // 2, num_p)
+            nn.Linear(embed_dim, num_p)
         )
 
-    def forward(self, input_ids, attention_mask):
-        outputs = self.encoder(input_ids=input_ids, attention_mask=attention_mask)
-        pooled_output = self.dropout(outputs.pooler_output)
-        
-        s_logits = self.s_head(pooled_output)
-        t_logits = self.t_head(pooled_output)
-        
-        # Convert logits to probabilities for semantic conditioning
-        s_probs = torch.softmax(s_logits, dim=-1)
-        t_probs = torch.softmax(t_logits, dim=-1)
-        
-        # Concatenate: H + S_probs + T_probs
-        cond_representation = torch.cat((pooled_output, s_probs, t_probs), dim=1)
-        p_logits = self.p_head_cond(cond_representation)
-        
-        return {
-            's_logits': s_logits,
-            't_logits': t_logits,
-            'p_logits': p_logits
-        }
+    def forward(self, s_gold, t_gold, **kwargs):
+        s_vec = self.s_embed(s_gold)
+        t_vec = self.t_embed(t_gold)
+        combined = torch.cat((s_vec, t_vec), dim=1)
+        return {'p_logits': self.p_head(combined)}
+
+class ParallelMTLModel(nn.Module):
+    """Model 3: X -> (S, T, P)"""
+    def __init__(self, model_name, num_s, num_t, num_p):
+        super().__init__()
+        self.encoder = AutoModel.from_pretrained(model_name)
+        h_size = self.encoder.config.hidden_size
+        self.s_head = nn.Linear(h_size, num_s)
+        self.t_head = nn.Linear(h_size, num_t)
+        self.p_head = nn.Linear(h_size, num_p)
+
+    def forward(self, input_ids, attention_mask, **kwargs):
+        out = self.encoder(input_ids=input_ids, attention_mask=attention_mask).pooler_output
+        return {'s_logits': self.s_head(out), 't_logits': self.t_head(out), 'p_logits': self.p_head(out)}
+
+class ConditionedMTLModel(nn.Module):
+    """Model 4: X -> M, then (X + \hat{M}) -> P"""
+    def __init__(self, model_name, num_s, num_t, num_p):
+        super().__init__()
+        self.encoder = AutoModel.from_pretrained(model_name)
+        h_size = self.encoder.config.hidden_size
+        self.s_head = nn.Linear(h_size, num_s)
+        self.t_head = nn.Linear(h_size, num_t)
+        self.p_head = nn.Sequential(
+            nn.Linear(h_size + num_s + num_t, h_size // 2),
+            nn.ReLU(),
+            nn.Linear(h_size // 2, num_p)
+        )
+
+    def forward(self, input_ids, attention_mask, **kwargs):
+        out = self.encoder(input_ids=input_ids, attention_mask=attention_mask).pooler_output
+        s_log = self.s_head(out)
+        t_log = self.t_head(out)
+        s_prob, t_prob = torch.softmax(s_log, dim=1), torch.softmax(t_log, dim=1)
+        combined = torch.cat((out, s_prob, t_prob), dim=1)
+        return {'s_logits': s_log, 't_logits': t_log, 'p_logits': self.p_head(combined)}
+
+class OracleConditionedModel(nn.Module):
+    """Model 5: (X + M_gold) -> P"""
+    def __init__(self, model_name, num_s, num_t, num_p):
+        super().__init__()
+        self.encoder = AutoModel.from_pretrained(model_name)
+        h_size = self.encoder.config.hidden_size
+        self.p_head = nn.Sequential(
+            nn.Linear(h_size + num_s + num_t, h_size // 2),
+            nn.ReLU(),
+            nn.Linear(h_size // 2, num_p)
+        )
+        self.num_s, self.num_t = num_s, num_t
+
+    def forward(self, input_ids, attention_mask, s_gold, t_gold, **kwargs):
+        out = self.encoder(input_ids=input_ids, attention_mask=attention_mask).pooler_output
+        s_onehot = torch.nn.functional.one_hot(s_gold, num_classes=self.num_s).float()
+        t_onehot = torch.nn.functional.one_hot(t_gold, num_classes=self.num_t).float()
+        combined = torch.cat((out, s_onehot, t_onehot), dim=1)
+        return {'p_logits': self.p_head(combined)}
