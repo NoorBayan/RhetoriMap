@@ -46,7 +46,7 @@ class ParallelMTLModel(nn.Module):
         return {'s_logits': self.s_head(out), 't_logits': self.t_head(out), 'p_logits': self.p_head(out)}
 
 class ConditionedMTLModel(nn.Module):
-    """Model 4: X -> M, then (X + \hat{M}) -> P"""
+    """Model 4: X -> M, then (X + M_hat) -> P"""
     def __init__(self, model_name, num_s, num_t, num_p):
         super().__init__()
         self.encoder = AutoModel.from_pretrained(model_name)
