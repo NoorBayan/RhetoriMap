@@ -20,10 +20,15 @@ class MetaphorDataset(Dataset):
 
     def __getitem__(self, item):
         text = str(self.texts[item])
-        inputs = self.tokenizer.encode_plus(
-            text, None, add_special_tokens=True, max_length=self.max_len,
-            padding='max_length', truncation=True, return_token_type_ids=False,
-            return_attention_mask=True, return_tensors='pt'
+        # Using the standard modern __call__ method for transformers tokenizer
+        inputs = self.tokenizer(
+            text,
+            add_special_tokens=True,
+            max_length=self.max_len,
+            padding='max_length',
+            truncation=True,
+            return_attention_mask=True,
+            return_tensors='pt'
         )
         return {
             'input_ids': inputs['input_ids'].flatten(),
