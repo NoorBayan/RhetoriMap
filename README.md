@@ -1,121 +1,100 @@
 # RhetoriMap
 
-## Exploring Conceptual Mappings in Classical Arabic Metaphor
+## An Empirical Investigation into Conceptual Mappings and Pragmatic Functions in Classical Arabic Metaphor
 
-**RhetoriMap** is a research project at the intersection of **Arabic rhetoric, linguistics, and artificial intelligence**. It explores whether the conceptual relationship underlying a metaphor can provide useful information for understanding its rhetorical and pragmatic role.
+**RhetoriMap** is an interdisciplinary research initiative situated at the intersection of **Artificial Intelligence, Cognitive Linguistics, and Quranic Humanities**. The project is fundamentally designed as an empirical investigative framework to explore a critical question in computational rhetoric: *Does human cognitive interpretability inherently translate into computational utility for deep learning models?*
 
-A metaphor is not simply a linguistic expression. It often establishes a conceptual relationship between two domains:
+Rather than treating figurative language simply as a detection task, RhetoriMap focuses on the profound rhetorical intent (pragmatics) of metaphors, particularly within highly stylized and morphosyntactically dense texts like the Qur'an.
 
-$$M = (S,T)$$
+---
+
+## The Complexity of Quranic Discourse
+
+Classical Arabic, and Quranic discourse in particular, is characterized by extreme rhetorical density and pragmatic polysemy. Metaphors in this text are not mere stylistic decorations; they are intricate conceptual bridges designed to achieve highly specific communicative goals—such as *Warning*, *Affirmation*, or *Glorification*. 
+
+Mapping abstract theological or eschatological concepts to concrete human experiences requires a layered understanding of both the text and the intent behind it. RhetoriMap was built to computationally respect and investigate this profound complexity.
+
+---
+
+## The Theoretical Core
+
+According to cognitive metaphor theories, a metaphor establishes a structured relationship between two distinct domains:
+
+$$M = (S, T)$$
 
 where:
+- $S$ represents the **Source Domain** (the concrete concept, e.g., *Trade* or *Light*),
+- $T$ represents the **Target Domain** (the abstract concept, e.g., *Guidance* or *Human Behavior*).
 
-- $S$ represents the **source domain**,
-- $T$ represents the **target domain**.
+RhetoriMap investigates whether explicitly defining this conceptual mapping provides measurable predictive power to determine the ultimate **Pragmatic Function ($P$)** of the verse:
 
-RhetoriMap investigates whether this source–target relationship can help explain or predict the **pragmatic function** of a metaphor:
-
-$$(S,T) \rightarrow P$$
-
-where $P$ represents the pragmatic function.
+$$(S, T) \xrightarrow{?} P$$
 
 ---
 
-## Why This Matters
+## Empirical Validation and Experimental Implementation
 
-Computational systems often treat different metaphor annotations as separate prediction tasks. However, rhetorical interpretation may involve relationships between these annotations.
+To move beyond the theoretical formulation, **RhetoriMap** includes an empirical experimental phase designed to test whether explicitly represented **Source–Target conceptual mappings** provide useful predictive information for identifying the **pragmatic functions** of Classical Arabic metaphors.
 
-For example, identifying a conceptual mapping such as:
+The experiments were implemented and executed using **Google Colab**, where the complete computational pipeline was developed and the experimental results were obtained. The notebook includes the implementation of the proposed models, training and evaluation procedures, and the generation of the experimental results used in the empirical investigation.
 
-```text
-Source: FIRE
-Target: HUMAN BEHAVIOR
-```
+> 🧪 **Experimental Implementation**  
+> The complete experimental notebook and implementation are available on Google Colab:  
+> 
+> <a href="https://colab.research.google.com/drive/1Zx2PPV5hZe4QOprR3XkyWXTQt0OG_4y-?usp=sharing">
+> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="32" alt="Google Colab"/>
+> </a>
+> 
+> **[Open the Experimental Notebook](https://colab.research.google.com/drive/1Zx2PPV5hZe4QOprR3XkyWXTQt0OG_4y-?usp=sharing)**
 
-may provide information about how the metaphor functions in its surrounding discourse.
+The experimental phase is an essential component of the RhetoriMap methodology because the project does not assume that linguistically motivated conceptual mappings will necessarily improve neural prediction. Instead, their contribution is evaluated empirically by comparing model configurations with and without the explicit conceptual information. This allows the study to distinguish between **theoretical linguistic relevance** and **actual computational utility**.
 
-The project therefore asks a broader question:
+Accordingly, the experimental results provide the empirical basis for answering the project's central question:
 
-> **Does the conceptual mapping of a Classical Arabic metaphor contain information that can help identify its pragmatic function?**
+> **Does explicitly representing the conceptual mapping of a Classical Arabic metaphor provide measurable predictive value for identifying its pragmatic function?**
 
-This question is particularly interesting in Classical Arabic, where metaphorical expressions can connect concrete conceptual experiences with abstract domains such as human behavior, spirituality, theology, guidance, and eschatology.
-
----
-
-## The Research Idea
-
-RhetoriMap treats the conceptual mapping as a meaningful unit rather than considering the source and target domains only as independent labels.
-
-The investigation can be viewed conceptually as:
-
-```text
-Metaphorical Text
-       │
-       ▼
-Conceptual Mapping
-(Source ↔ Target)
-       │
-       ▼
-Pragmatic Function
-```
-
-The purpose is not to assume that a particular mapping always produces a particular rhetorical function. 
-
-Instead, the project investigates whether there is a predictive relationship between conceptual structure and pragmatic interpretation.
+The resulting analysis is therefore intended not merely to report model performance, but to diagnose whether conceptual metaphor information acts as a **complementary signal, a redundant signal, or a potentially interfering signal** within contextual neural representations.
 
 ---
 
-## A Bridge Between Three Fields
+## The Research Philosophy: Diagnosis Over SOTA
 
-RhetoriMap brings together three complementary perspectives:
+In the current landscape of Natural Language Processing (NLP), there is a persistent assumption that injecting explicit linguistic rules or structures into neural networks will automatically improve their performance. RhetoriMap challenges this assumption through rigorous empirical diagnosis. 
 
-### 1. Arabic Rhetoric
-Traditional rhetorical analysis provides the theoretical understanding of metaphor, its conceptual dimensions, and its communicative functions.
+The project operates on a simple but critical principle:
+> *If a rhetorical relationship is theoretically meaningful to human scholars, its actual computational value within a dense neural representation space must be tested, not merely assumed.*
 
-### 2. Linguistics
-Linguistic analysis provides concepts for describing metaphorical mappings, meaning construction, discourse, and pragmatic interpretation.
-
-### 3. Artificial Intelligence
-Machine learning provides an empirical framework for testing whether these relationships can be detected and exploited computationally.
-
-Together, these perspectives allow a rhetorical hypothesis to be examined through computational evidence.
+Therefore, RhetoriMap is **not** designed to chase State-of-the-Art (SOTA) accuracy metrics on standard leaderboards. Instead, it serves as a diagnostic environment (an ablation-style framework) to study the interaction—and potential interference—between discrete linguistic categories and the continuous, contextualized embeddings generated by deep language models.
 
 ---
 
-## The Core Question
+## A Bridge Between Three Disciplines
 
-The project ultimately asks:
+RhetoriMap offers valuable insights across three distinct research communities:
 
-> **Can computational models benefit from explicitly representing the conceptual mapping of a Classical Arabic metaphor when identifying its pragmatic function?**
+1. **For AI & Machine Learning Researchers:**  
+   It provides a testing ground for understanding Multi-Task Learning (MTL) dynamics, inductive biases, and the phenomena of representational interference when fusing symbolic categorical knowledge with deep neural networks.
 
-- **A positive result** would suggest that conceptual structure may contain useful predictive information that is not fully captured when metaphor-related properties are treated independently.
-- **A negative result** would also be informative: it would indicate that the theoretically meaningful relationship does not necessarily translate into additional computational predictive value.
+2. **For Linguists & Cognitive Scientists:**  
+   It offers a computational lens to test whether Conceptual Metaphor Theory (CMT) can serve as a robust predictive scaffold for pragmatic meaning construction.
 
-In either case, the goal is empirical investigation rather than confirmation of a predetermined conclusion.
-
----
-
-## Research Philosophy
-
-RhetoriMap follows a simple principle:
-
-> *If a rhetorical relationship is theoretically meaningful, its computational value should be tested rather than assumed.*
-
-The project therefore uses computational modeling as a means of investigating a linguistic and rhetorical question—not as an end in itself.
-
-The broader objective is to explore how ideas from classical Arabic rhetorical scholarship can be represented, examined, and evaluated using modern computational methods.
+3. **For Humanities & Quranic Studies Scholars:**  
+   It introduces a modern, data-driven approach to classical *Balagha* (rhetoric), exploring how ancient semantic relationships can be mapped, measured, and analyzed using contemporary computational methodologies without losing their contextual depth.
 
 ---
 
-## Scope
+## The Core Investigative Goal
 
-The current investigation focuses on Classical Arabic metaphor, with particular attention to metaphorical expressions in the Qur’anic corpus.
+Ultimately, RhetoriMap seeks to answer:
+> **Can computational models benefit from explicitly representing the conceptual mapping of a Classical Arabic metaphor when identifying its pragmatic intent?**
 
-The project is intended as an empirical research framework that can potentially be extended to other forms of Arabic rhetorical analysis and other figurative-language phenomena.
+- **If yes**, it suggests that structured human linguistic knowledge acts as a powerful guiding signal for neural networks.
+- **If no**, it provides profound insights into the architecture of modern language models, suggesting that explicitly forcing discrete human concepts might create bottlenecks that conflict with the models' native contextual understanding.
+
+In either scenario, RhetoriMap bridges the gap between traditional Arabic rhetorical scholarship and the frontier of representation learning.
 
 ---
 
 ## RhetoriMap in One Sentence
 
-> **RhetoriMap investigates whether the conceptual mapping underlying Classical Arabic metaphors can provide computationally measurable information about their pragmatic and rhetorical functions.**
-```
+> **RhetoriMap is a diagnostic computational framework that investigates whether the structured conceptual mappings underlying highly complex Classical Arabic metaphors provide complementary predictive signals for understanding their pragmatic functions.**
