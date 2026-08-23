@@ -1,0 +1,995 @@
+﻿verse_uid,text,source,target,pragmatic,source_lbl,target_lbl,prag_lbl
+1_6,ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+2_5,عَلَىٰ هُدًى,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,20,5,2
+2_7,خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+2_10,فِى قُلُوبِهِم مَّرَضٌ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,2,5,3
+2_14,وَإِذَا خَلَوْا۟ إِلَىٰ شَيَٰطِينِهِمْ,NATURE_FAUNA,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,14,3,3
+2_15,ٱللَّهُ يَسْتَهْزِئُ بِهِمْ,PSYCHOLOGY_AND_EMOTION,THEOLOGY,Condemnation & Criticism,17,6,3
+2_16,ٱشْتَرَوُا۟ ٱلضَّلَٰلَةَ بِٱلْهُدَىٰ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+2_18,صُمٌّۢ بُكْمٌ عُمْىٌ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,2,3,3
+2_26,أَن يَضْرِبَ مَثَلًا,BUILDINGS_AND_SHELTER,THEOLOGY,Clarification & Imagery,3,6,2
+2_27,يَنقُضُونَ عَهْدَ ٱللَّهِ,TOOLS_AND_ARTIFACTS,REVELATION_AND_GUIDANCE,Clarification & Imagery,19,4,2
+2_41,وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+2_42,وَلَا تَلْبِسُوا۟ ٱلْحَقَّ بِٱلْبَٰطِلِ,CLOTHING_AND_ADORNMENT,DEEDS_AND_BEHAVIOR,Warning & Intimidation,4,1,7
+2_44,وَتَنسَوْنَ أَنفُسَكُمْ,PSYCHOLOGY_AND_EMOTION,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,17,1,3
+2_49,يَسُومُونَكُمْ سُوءَ ٱلْعَذَابِ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Warning & Intimidation,5,1,7
+2_61,وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ,BUILDINGS_AND_SHELTER,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,3,5,2
+2_74,ثُمَّ قَسَتْ قُلُوبُكُم,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,13,5,3
+2_76,بِمَا فَتَحَ ٱللَّهُ عَلَيْكُمْ,BUILDINGS_AND_SHELTER,REVELATION_AND_GUIDANCE,Glorification & Exaltation,3,4,5
+2_81,وَأَحَٰطَتْ بِهِۦ خَطِيٓـَٔتُهُۥ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+2_86,ٱشْتَرَوُا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+2_88,قُلُوبُنَا غُلْفٌ,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,4,5,3
+2_90,بِئْسَمَا ٱشْتَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+2_93,وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,2,5,3
+2_97,نَزَّلَهُۥ عَلَىٰ قَلْبِكَ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Affirmation & Establishment,2,3,0
+2_101,نَبَذَ فَرِيقٌ ... كِتَابَ اللَّهِ وَرَاءَ ظُهُورِهِمْ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,21,1,3
+2_102,ٱشْتَرَىٰهُ ... شَرَوْا۟,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+2_108,فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Warning & Intimidation,20,4,7
+2_112,أَسْلَمَ وَجْهَهُۥ لِلَّهِ,COMMERCE_AND_EXCHANGE,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,5,5,2
+2_124,لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ,FAMILY_AND_SOCIETY,REVELATION_AND_GUIDANCE,Clarification & Imagery,7,4,2
+2_130,سَفِهَ نَفْسَهُۥ,PSYCHOLOGY_AND_EMOTION,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,17,1,3
+2_132,فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Incentive & Attraction,2,1,6
+2_133,إِذْ حَضَرَ يَعْقُوبَ الْمَوْتُ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Clarification & Imagery,7,2,2
+2_138,صِبْغَةَ ٱللَّهِ,CLOTHING_AND_ADORNMENT,REVELATION_AND_GUIDANCE,Clarification & Imagery,4,4,2
+2_143,يَنقَلِبُ عَلَىٰ عَقِبَيْهِ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,20,1,3
+2_145,وَلَئِنِ ٱتَّبَعْتَ أَهْوَآءَهُم,FAMILY_AND_SOCIETY,DEEDS_AND_BEHAVIOR,Clarification & Imagery,7,1,2
+2_164,فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Clarification & Imagery,2,0,2
+2_166,وَتَقَطَّعَتْ بِهِمُ ٱلْأَسْبَابُ,TOOLS_AND_ARTIFACTS,ESCHATOLOGY,Condemnation & Criticism,19,2,3
+2_167,يُرِيهِمُ ٱللَّهُ أَعْمَٰلَهُمْ حَسَرَٰتٍ عَلَيْهِمْ,PSYCHOLOGY_AND_EMOTION,DEEDS_AND_BEHAVIOR,Warning & Intimidation,17,1,7
+2_168,وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,20,1,3
+2_171,وَمَثَلُ الَّذِينَ كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَاءً وَنِدَاءً,SOUND_AND_VOICE,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,18,3,3
+2_174,مَا يَأْكُلُونَ فِى بُطُونِهِمْ إِلَّا ٱلنَّارَ,FIRE_AND_HEAT,WORLDLY_LIFE,Warning & Intimidation,8,7,7
+2_175,أُو۟لَٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَٰلَةَ بِٱلْهُدَىٰ وَٱلْعَذَابَ بِٱلْمَغْفِرَةِ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+2_176,لَفِى شِقَاقٍۭ بَعِيدٍ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Warning & Intimidation,20,1,7
+2_178,فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Incentive & Attraction,7,3,6
+2_179,وَلَكُمْ فِى ٱلْقِصَاصِ حَيَوٰةٌ,BODY_AND_PHYSIOLOGY,WORLDLY_LIFE,Argumentation & Persuasion,2,7,1
+2_187,يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ,TOOLS_AND_ARTIFACTS,COSMOLOGY_AND_NATURE,Clarification & Imagery,19,0,2
+2_188,وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,2,1,3
+2_195,وَلَا تُلْقُوا۟ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ,FIRE_AND_HEAT,DEEDS_AND_BEHAVIOR,Warning & Intimidation,8,1,7
+2_206,أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ,WAR_AND_CONFLICT,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,21,5,2
+2_207,يَشْرِى نَفْسَهُ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Clarification & Imagery,5,1,2
+2_208,خُطُوَاتِ ٱلشَّيْطَٰنِ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+2_209,فَإِن زَلَلْتُم,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+2_211,وَمَن يُبَدِّلْ نِعْمَةَ ٱللَّهِ مِنۢ بَعْدِ مَا جَآءَتْهُ,FAMILY_AND_SOCIETY,REVELATION_AND_GUIDANCE,Clarification & Imagery,7,4,2
+2_214,وَزُلْزِلُوا۟,BUILDINGS_AND_SHELTER,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,3,5,7
+2_221,يَدْعُونَ إِلَى ٱلنَّارِ,SOUND_AND_VOICE,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,18,3,3
+2_224,وَلَا تَجْعَلُوا۟ ٱللَّهَ عُرْضَةً لِّأَيْمَٰنِكُمْ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,20,1,3
+2_225,كَسَبَتْ قُلُوبُكُمْ,COMMERCE_AND_EXCHANGE,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,5,5,2
+2_231,فَبَلَغْنَ أَجَلَهُنَّ,TRAVEL_AND_PATH,WORLDLY_LIFE,Clarification & Imagery,20,7,2
+2_235,وَلَا تَعْزِمُوا عُقْدَةَ النِّكَاحِ,TOOLS_AND_ARTIFACTS,WORLDLY_LIFE,Clarification & Imagery,19,7,2
+2_237,عُقْدَةُ ٱلنِّكَاحِ,TOOLS_AND_ARTIFACTS,WORLDLY_LIFE,Clarification & Imagery,19,7,2
+2_245,مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًا,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Incentive & Attraction,5,1,6
+2_250,رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,16,5,2
+2_255,وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ,TOOLS_AND_ARTIFACTS,THEOLOGY,Glorification & Exaltation,19,6,5
+2_256,فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Clarification & Imagery,19,1,2
+2_257,يُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ... يُخْرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَٰتِ,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Clarification & Imagery,12,4,2
+2_266,أَيَوَدُّ أَحَدُكُمْ أَن تَكُونَ لَهُۥ جَنَّةٌ ... فَأَصَابَهَآ إِعْصَارٌ فِيهِ نَارٌ فَٱحْتَرَقَتْ,NATURE_FLORA,DEEDS_AND_BEHAVIOR,Warning & Intimidation,15,1,7
+2_268,ٱلشَّيْطَٰنُ يَعِدُكُمُ ٱلْفَقْرَ,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,7,5,2
+2_275,ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,2,1,3
+2_276,يَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟,LIGHT_AND_DARKNESS,WORLDLY_LIFE,Condemnation & Criticism,12,7,3
+2_276,وَيُرْبِى ٱلصَّدَقَٰتِ,NATURE_FLORA,THEOLOGY,Incentive & Attraction,15,6,6
+2_279,فَأْذَنُوا۟ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِۦ,WAR_AND_CONFLICT,ESCHATOLOGY,Warning & Intimidation,21,2,7
+2_282,أَن تَضِلَّ إِحْدَىٰهُمَا,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,20,5,2
+3_7,هُنَّ أُمُّ ٱلْكِتَٰبِ,FAMILY_AND_SOCIETY,REVELATION_AND_GUIDANCE,Glorification & Exaltation,7,4,5
+3_12,ٱلْمِهَادُ,TOOLS_AND_ARTIFACTS,ESCHATOLOGY,Condemnation & Criticism,19,2,3
+3_21,فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Condemnation & Criticism,2,4,3
+3_24,وَغَرَّهُمْ فِى دِينِهِم مَّا كَانُوا۟ يَفْتَرُونَ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+3_27,تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ,TRAVEL_AND_PATH,COSMOLOGY_AND_NATURE,Glorification & Exaltation,20,0,5
+3_37,وَأَنۢبَتَهَا نَبَاتًا حَسَنًا,NATURE_FLORA,DEEDS_AND_BEHAVIOR,Clarification & Imagery,15,1,2
+3_45,يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ,DIVINE_LAWS,HUMAN_AGENTS_AND_GROUPS,Glorification & Exaltation,6,3,5
+3_54,وَمَكَرَ ٱللَّهُ,WAR_AND_CONFLICT,THEOLOGY,Condemnation & Criticism,21,6,3
+3_61,وَأَنفُسَنَا,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Glorification & Exaltation,2,3,5
+3_64,تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ,SOUND_AND_VOICE,REVELATION_AND_GUIDANCE,Glorification & Exaltation,18,4,5
+3_71,لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَٰطِلِ,CLOTHING_AND_ADORNMENT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,4,1,3
+3_77,يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَٰنِهِمْ ثَمَنًا قَلِيلًا,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+3_78,يَلْوُۥنَ أَلْسِنَتَهُم بِٱلْكِتَٰبِ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,19,1,3
+3_99,تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ... تَبْغُونَهَا عِوَجًا,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+3_100,يَرُدُّوكُم,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Warning & Intimidation,20,1,7
+3_101,يَعْتَصِم بِٱللَّهِ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+3_103,وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًا,TOOLS_AND_ARTIFACTS,REVELATION_AND_GUIDANCE,Clarification & Imagery,19,4,2
+3_112,ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ,BUILDINGS_AND_SHELTER,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,3,5,2
+3_112,إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ,TOOLS_AND_ARTIFACTS,REVELATION_AND_GUIDANCE,Clarification & Imagery,19,4,2
+3_117,مَثَلُ مَا يُنفِقُونَ فِى هَٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوٓا۟ أَنفُسَهُمْ فَأَهْلَكَتْهُ,NATURE_FLORA,DEEDS_AND_BEHAVIOR,Clarification & Imagery,15,1,2
+3_118,لَا تَتَّخِذُوا بِطَانَةً مِّن دُونِكُمْ,CLOTHING_AND_ADORNMENT,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,4,3,7
+3_119,عَضُّوا۟ عَلَيْكُمُ ٱلْأَنَامِلَ مِنَ ٱلْغَيْظِ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+3_120,إِن تَمْسَسْكُمْ حَسَنَةٌ,BODY_AND_PHYSIOLOGY,THEOLOGY,Clarification & Imagery,2,6,2
+3_127,لِيَقْطَعَ طَرَفًا,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,2,3,2
+3_140,وَتِلْكَ ٱلْأَيَّامُ نُدَاوِلُهَا بَيْنَ ٱلنَّاسِ,COMMERCE_AND_EXCHANGE,WORLDLY_LIFE,Consolation & Reassurance,5,7,4
+3_141,وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟,FIRE_AND_HEAT,THEOLOGY,Consolation & Reassurance,8,6,4
+3_141,وَيَمْحَقَ ٱلْكَٰفِرِينَ,LIGHT_AND_DARKNESS,THEOLOGY,Warning & Intimidation,12,6,7
+3_144,ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَٰبِكُمْ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Warning & Intimidation,21,1,7
+3_146,فِي سَبِيلِ اللَّهِ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+3_147,وَثَبِّتْ أَقْدَامَنَا,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,13,5,2
+3_149,يَرُدُّوكُمْ عَلَىٰٓ أَعْقَٰبِكُمْ,WAR_AND_CONFLICT,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,21,5,2
+3_151,سَنُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,13,5,7
+3_154,لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ,BUILDINGS_AND_SHELTER,ESCHATOLOGY,Affirmation & Establishment,3,2,0
+3_155,إِنَّمَا ٱسْتَزَلَّهُمُ ٱلشَّيْطَٰنُ,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,20,5,2
+3_156,ضَرَبُوا۟ فِى ٱلْأَرْضِ,TRAVEL_AND_PATH,WORLDLY_LIFE,Clarification & Imagery,20,7,2
+3_159,وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,13,5,3
+3_159,لَٱنفَضُّوا۟ مِنْ حَوْلِكَ,CLOTHING_AND_ADORNMENT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,4,1,3
+3_162,أَفَمَنِ ٱتَّبَعَ رِضْوَٰنَ ٱللَّهِ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Incentive & Attraction,20,1,6
+3_162,كَمَنۢ بَآءَ بِسَخَطٍ مِّنَ ٱللَّهِ,COMMERCE_AND_EXCHANGE,THEOLOGY,Condemnation & Criticism,5,6,3
+3_164,لَفِى ضَلَٰلٍ مُّبِينٍ,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,20,5,3
+3_177,ٱشْتَرَوُا۟ ٱلْكُفْرَ بِٱلْإِيمَٰنِ,COMMERCE_AND_EXCHANGE,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,5,5,3
+3_180,سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَٰمَةِ,TOOLS_AND_ARTIFACTS,ESCHATOLOGY,Warning & Intimidation,19,2,7
+3_181,ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Condemnation & Criticism,2,2,3
+3_185,وَمَا ٱلْحَيَٰوةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ,COMMERCE_AND_EXCHANGE,WORLDLY_LIFE,Condemnation & Criticism,5,7,3
+3_187,فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Clarification & Imagery,2,1,2
+3_197,وَبِئْسَ ٱلْمِهَادُ,BUILDINGS_AND_SHELTER,ESCHATOLOGY,Condemnation & Criticism,3,2,3
+4_10,إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا,FIRE_AND_HEAT,WORLDLY_LIFE,Condemnation & Criticism,8,7,3
+4_15,يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ,DIVINE_LAWS,ESCHATOLOGY,Clarification & Imagery,6,2,2
+4_18,حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Warning & Intimidation,7,2,7
+4_19,لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+4_21,وَأَخَذْنَ مِنكُم مِّيثَٰقًا غَلِيظًا,TOOLS_AND_ARTIFACTS,WORLDLY_LIFE,Glorification & Exaltation,19,7,5
+4_27,أَن تَمِيلُوا۟ مَيْلًا عَظِيمًا,BUILDINGS_AND_SHELTER,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,3,1,3
+4_29,لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,2,1,3
+4_44,يَشْتَرُونَ ٱلضَّلَٰلَةَ,COMMERCE_AND_EXCHANGE,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,5,5,3
+4_46,طَعْنًا فِى ٱلدِّينِ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Clarification & Imagery,2,4,2
+4_47,نَّطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَىٰٓ أَدْبَارِهَآ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,2,5,7
+4_48,فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,19,5,3
+4_56,لِيَذُوقُوا۟ ٱلْعَذَابَ,NATURE_FLORA,ESCHATOLOGY,Warning & Intimidation,15,2,7
+4_57,وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا,LIGHT_AND_DARKNESS,ESCHATOLOGY,Incentive & Attraction,12,2,6
+4_60,ضَلَٰلًۢا بَعِيدًا,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,20,5,7
+4_68,وَلَهَدَيْنَٰهُمْ صِرَٰطًا مُّسْتَقِيمًا,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+4_74,ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Glorification & Exaltation,5,1,5
+4_84,عَسَى ٱللَّهُ أَن يَكُفَّ بَأْسَ ٱلَّذِينَ كَفَرُوا۟,WAR_AND_CONFLICT,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,21,3,2
+4_88,أَرْكَسَهُم بِمَا كَسَبُوٓا۟,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,19,5,3
+4_90,وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+4_91,أُرْكِسُوا۟ فِيهَا,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,13,5,3
+4_94,إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+4_101,وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ,WAR_AND_CONFLICT,WORLDLY_LIFE,Clarification & Imagery,21,7,2
+4_102,فَيَمِيلُونَ عَلَيْكُم مَّيْلَةً وَٰحِدَةً,BUILDINGS_AND_SHELTER,DEEDS_AND_BEHAVIOR,Warning & Intimidation,3,1,7
+4_107,يَخْتَانُونَ أَنفُسَهُمْ,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,7,3,2
+4_110,يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا,COMMERCE_AND_EXCHANGE,THEOLOGY,Clarification & Imagery,5,6,2
+4_111,يَكْسِبْ إِثْمًا,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Affirmation & Establishment,5,1,0
+4_112,ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+4_112,فَقَدِ ٱحْتَمَلَ بُهْتَٰنًا وَإِثْمًا مُّبِينًا,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+4_115,وَمَن يُشَاقِقِ ٱلرَّسُولَ,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,13,1,3
+4_116,ضَلَّ ضَلَٰلًۢا بَعِيدًا,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,20,5,7
+4_119,فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Affirmation & Establishment,2,4,0
+4_126,وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ مُّحِيطًا,BUILDINGS_AND_SHELTER,THEOLOGY,Glorification & Exaltation,3,6,5
+4_138,بَشِّرِ ٱلْمُنَٰفِقِينَ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Condemnation & Criticism,2,4,3
+4_142,وَهُوَ خَٰدِعُهُمْ,WAR_AND_CONFLICT,THEOLOGY,Condemnation & Criticism,21,6,3
+4_143,مُّذَبْذَبِينَ بَيْنَ ذَٰلِكَ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,19,5,3
+4_144,أَن تَجْعَلُوا۟ لِلَّهِ عَلَيْكُمْ سُلْطَٰنًا مُّبِينًا,COMMERCE_AND_EXCHANGE,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,5,5,3
+4_150,يُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Argumentation & Persuasion,19,5,1
+4_150,يُرِيدُونَ أَن يَتَّخِذُوا۟ بَيْنَ ذَٰلِكَ سَبِيلًا,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+4_155,طَبَعَ ٱللَّهُ عَلَيْهَا,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,19,5,3
+4_161,وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,2,1,3
+4_167,قَدْ ضَلُّوا۟ ضَلَٰلًۢا بَعِيدًا,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,20,5,7
+4_171,وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ,DIVINE_LAWS,HUMAN_AGENTS_AND_GROUPS,Argumentation & Persuasion,6,3,1
+4_174,وَأَنزَلْنَآ إِلَيْكُمْ نُورًا مُّبِينًا,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Glorification & Exaltation,12,4,5
+4_175,فَسَيُدْخِلُهُمْ فِى رَحْمَةٍ مِّنْهُ وَفَضْلٍ,BUILDINGS_AND_SHELTER,THEOLOGY,Clarification & Imagery,3,6,2
+5_12,وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Incentive & Attraction,5,1,6
+5_13,وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,13,5,3
+5_14,فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ,PSYCHOLOGY_AND_EMOTION,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,17,1,3
+5_14,فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ,NATURE_FAUNA,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,14,5,7
+5_15,قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌ,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Glorification & Exaltation,12,4,5
+5_16,وَيُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ,LIGHT_AND_DARKNESS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,12,5,2
+5_29,أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Warning & Intimidation,20,1,7
+5_30,فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,4,5,2
+5_33,يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Warning & Intimidation,21,1,7
+5_41,يُسَٰرِعُونَ فِى ٱلْكُفْرِ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Consolation & Reassurance,20,1,4
+5_42,أَكَّالُونَ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,2,1,3
+5_44,وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+5_46,لِّمَا بَيْنَ يَدَيْهِ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Clarification & Imagery,2,4,2
+5_52,فِى قُلُوبِهِم مَّرَضٌ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,2,5,3
+5_62,يُسَٰرِعُونَ فِى ٱلْإِثْمِ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,20,1,3
+5_64,كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ,FIRE_AND_HEAT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,8,1,3
+5_71,فَعَمُوا۟ وَصَمُّوا۟ ... ثُمَّ عَمُوا۟ وَصَمُّوا۟,LIGHT_AND_DARKNESS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,12,5,3
+5_77,وَضَلُّوا۟ عَن سَوَآءِ ٱلسَّبِيلِ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Warning & Intimidation,20,4,7
+5_78,عَلَىٰ لِسَانِ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Warning & Intimidation,2,4,7
+5_80,لَبِئْسَ مَا قَدَّمَتْ لَهُمْ أَنفُسُهُمْ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+5_83,تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,16,5,5
+5_89,بِمَا عَقَّدتُّمُ ٱلْأَيْمَٰنَ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+5_89,وَٱحْفَظُوا۟ أَيْمَٰنَكُمْ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Glorification & Exaltation,5,1,5
+5_91,أَن يُوقِعَ بَيْنَكُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ,FIRE_AND_HEAT,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,8,5,2
+5_95,لِّيَذُوقَ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+5_106,إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ,WAR_AND_CONFLICT,ESCHATOLOGY,Warning & Intimidation,21,2,7
+5_110,وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ,BODY_AND_PHYSIOLOGY,THEOLOGY,Clarification & Imagery,2,6,2
+6_9,وَلَلَبَسْنَا عَلَيْهِم مَّا يَلْبِسُونَ,CLOTHING_AND_ADORNMENT,THEOLOGY,Argumentation & Persuasion,4,6,1
+6_10,فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ,WAR_AND_CONFLICT,THEOLOGY,Warning & Intimidation,21,6,7
+6_12,ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Warning & Intimidation,5,1,7
+6_23,ثُمَّ لَمْ تَكُن فِتْنَتُهُمْ إِلَّا أَن قَالُوا,FIRE_AND_HEAT,DEEDS_AND_BEHAVIOR,Warning & Intimidation,8,1,7
+6_24,كَذَبُوا۟ عَلَىٰٓ أَنفُسِهِمْ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Glorification & Exaltation,21,1,5
+6_25,وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+6_30,فَذُوقُوا الْعَذَابَ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Clarification & Imagery,2,2,2
+6_31,وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Clarification & Imagery,2,1,2
+6_36,وَٱلْمَوْتَىٰ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,2,3,3
+6_39,صُمٌّ وَبُكْمٌ فِى ٱلظُّلُمَٰتِ,LIGHT_AND_DARKNESS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,12,5,2
+6_43,وَلَٰكِن قَسَتْ قُلُوبُهُمْ,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,13,5,3
+6_44,فَتَحْنَا عَلَيْهِمْ أَبْوَٰبَ كُلِّ شَىْءٍ,TOOLS_AND_ARTIFACTS,THEOLOGY,Warning & Intimidation,19,6,7
+6_45,فَقُطِعَ دَابِرُ ٱلْقَوْمِ,BODY_AND_PHYSIOLOGY,THEOLOGY,Warning & Intimidation,2,6,7
+6_46,وَخَتَمَ عَلَىٰ قُلُوبِكُم,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Argumentation & Persuasion,19,5,1
+6_49,يَمَسُّهُمُ ٱلْعَذَابُ,NATURE_FAUNA,THEOLOGY,Clarification & Imagery,14,6,2
+6_50,قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ,LIGHT_AND_DARKNESS,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,12,3,2
+6_59,وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ,TOOLS_AND_ARTIFACTS,THEOLOGY,Clarification & Imagery,19,6,2
+6_60,وَيَعْلَمُ مَا جَرَحْتُم بِٱلنَّهَارِ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,2,1,3
+6_63,ظُلُمَاتِ ٱلْبَرِّ وَٱلْبَحْرِ,LIGHT_AND_DARKNESS,WORLDLY_LIFE,Warning & Intimidation,12,7,7
+6_65,أَوْ يَلْبِسَكُمْ شِيَعًا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ,CLOTHING_AND_ADORNMENT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,4,1,2
+6_68,يَخُوضُونَ فِىٓ ءَايَٰتِنَا,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,20,1,3
+6_70,أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ,COMMERCE_AND_EXCHANGE,ESCHATOLOGY,Warning & Intimidation,5,2,7
+6_71,كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَٰبٌ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,20,5,3
+6_82,وَلَمْ يَلْبِسُوٓا۟ إِيمَٰنَهُم بِظُلْمٍ,CLOTHING_AND_ADORNMENT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,4,1,2
+6_91,تَجْعَلُونَهُۥ قَرَاطِيسَ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Clarification & Imagery,19,1,2
+6_92,وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Glorification & Exaltation,7,0,5
+6_93,فِى غَمَرَٰتِ ٱلْمَوْتِ,NATURE_METEO_HYDRO,ESCHATOLOGY,Warning & Intimidation,16,2,7
+6_94,لَقَد تَّقَطَّعَ بَيْنَكُمْ,TOOLS_AND_ARTIFACTS,WORLDLY_LIFE,Condemnation & Criticism,19,7,3
+6_96,وَجَعَلَ ٱلَّيْلَ سَكَنًا,BUILDINGS_AND_SHELTER,COSMOLOGY_AND_NATURE,Clarification & Imagery,3,0,2
+6_104,قَدْ جَاءَكُم بَصَائِرُ مِن رَّبِّكُمْ,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Clarification & Imagery,12,4,2
+6_104,فَمَنْ أَبْصَرَ فَلِنَفْسِهِ ۖ وَمَنْ عَمِىَ فَعَلَيْهَا,LIGHT_AND_DARKNESS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,12,1,3
+6_110,وَنُقَلِّبُ أَفْـِٔدَتَهُمْ وَأَبْصَٰرَهُمْ,TOOLS_AND_ARTIFACTS,THEOLOGY,Warning & Intimidation,19,6,7
+6_112,يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ ٱلْقَوْلِ,CLOTHING_AND_ADORNMENT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,4,1,3
+6_113,وَلِتَصْغَىٰٓ إِلَيْهِ أَفْـِٔدَةُ... وَلِيَقْتَرِفُوا۟...,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Clarification & Imagery,5,1,2
+6_116,يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+6_117,يَضِلُّ عَن سَبِيلِهِۦ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+6_122,أَوَمَن كَانَ مَيْتًا فَأَحْيَيْنَٰهُ وَجَعَلْنَا لَهُۥ نُورًا يَمْشِى بِهِۦ فِى ٱلنَّاسِ كَمَن مَّثَلُهُۥ فِى ٱلظُّلُمَٰتِ لَيْسَ بِخَارِجٍ مِّنْهَا,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+6_125,يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَٰمِ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Incentive & Attraction,19,5,6
+6_125,يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,13,5,3
+6_127,لَهُمْ دَارُ ٱلسَّلَٰمِ,BUILDINGS_AND_SHELTER,ESCHATOLOGY,Incentive & Attraction,3,2,6
+6_130,وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا,FAMILY_AND_SOCIETY,WORLDLY_LIFE,Clarification & Imagery,7,7,2
+6_137,وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ,CLOTHING_AND_ADORNMENT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,4,1,3
+6_142,وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+6_148,حَتَّىٰ ذَاقُوا بَأْسَنَا,BODY_AND_PHYSIOLOGY,THEOLOGY,Clarification & Imagery,2,6,2
+6_161,هَدَىٰنِى رَبِّىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+7_8,فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Clarification & Imagery,19,1,2
+7_9,خَسِرُوٓا۟ أَنفُسَهُم,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Warning & Intimidation,5,1,7
+7_16,لَأَقْعُدَنَّ لَهُمْ صِرَٰطَكَ ٱلْمُسْتَقِيمَ,TRAVEL_AND_PATH,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,20,3,7
+7_17,لَءَاتِيَنَّهُم مِّنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ أَيْمَٰنِهِمْ وَعَن شَمَآئِلِهِمْ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+7_22,ذَاقَا,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Warning & Intimidation,2,1,7
+7_26,وَلِبَاسُ ٱلتَّقْوَىٰ,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,4,5,2
+7_27,يَنزِعُ عَنْهُمَا لِبَاسَهُمَا,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,4,5,7
+7_30,إِنَّهُمُ ٱتَّخَذُوا۟ ٱلشَّيَٰطِينَ أَوْلِيَآءَ مِن دُونِ ٱللَّهِ,FAMILY_AND_SOCIETY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,7,1,3
+7_38,كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,7,3,3
+7_39,فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْسِبُونَ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Condemnation & Criticism,2,2,3
+7_41,لَهُم مِّن جَهَنَّمَ مِهَادٌ وَمِن فَوْقِهِمْ غَوَاشٍ,BUILDINGS_AND_SHELTER,ESCHATOLOGY,Condemnation & Criticism,3,2,3
+7_43,وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+7_45,وَيَبْغُونَهَا عِوَجًا,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,20,1,3
+7_51,فَالْيَوْمَ نَنسَاهُمْ كَمَا نَسُوا لِقَاءَ يَوْمِهِمْ هَٰذَا,PSYCHOLOGY_AND_EMOTION,ESCHATOLOGY,Condemnation & Criticism,17,2,3
+7_54,يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا,NATURE_FAUNA,COSMOLOGY_AND_NATURE,Clarification & Imagery,14,0,2
+7_57,يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Glorification & Exaltation,7,0,5
+7_58,وَٱلْبَلَدُ ٱلطَّيِّبُ يَخْرُجُ نَبَاتُهُۥ بِإِذْنِ رَبِّهِۦ ۖ وَٱلَّذِى خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا,NATURE_FLORA,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,15,5,2
+7_60,فِى ضَلَٰلٍ مُّبِينٍ,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,16,5,2
+7_64,إِنَّهُمْ كَانُوا۟ قَوْمًا عَمِينَ,LIGHT_AND_DARKNESS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,12,5,3
+7_66,إِنَّا لَنَرَىٰكَ فِى سَفَاهَةٍ,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,16,5,3
+7_69,وَزَادَكُمْ فِي الْخَلْقِ بَصْطَةً,NATURE_ELEMENTS,HUMAN_AGENTS_AND_GROUPS,Glorification & Exaltation,13,3,5
+7_72,وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا,NATURE_FLORA,THEOLOGY,Warning & Intimidation,15,6,7
+7_74,وَتَنْحِتُونَ ٱلْجِبَالَ بُيُوتًا,BUILDINGS_AND_SHELTER,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,3,5,5
+7_77,وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ,NATURE_FLORA,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,15,5,3
+7_78,فَأَخَذَتْهُمُ ٱلرَّجْفَةُ,NATURE_FAUNA,THEOLOGY,Clarification & Imagery,14,6,2
+7_84,وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا,NATURE_METEO_HYDRO,THEOLOGY,Warning & Intimidation,16,6,7
+7_86,وَلَا تَقْعُدُوا۟ بِكُلِّ صِرَٰطٍ تُوعِدُونَ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,21,1,3
+7_89,رَبَّنَا ٱفْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا,BUILDINGS_AND_SHELTER,THEOLOGY,Clarification & Imagery,3,6,2
+7_91,فَأَخَذَتْهُمُ الرَّجْفَةُ,NATURE_FAUNA,THEOLOGY,Clarification & Imagery,14,6,2
+7_99,مَكْرَ اللَّهِ,WAR_AND_CONFLICT,THEOLOGY,Warning & Intimidation,21,6,7
+7_100,وَنَطْبَعُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَسْمَعُونَ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+7_101,يَطْبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلْكَٰفِرِينَ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+7_116,سَحَرُوٓا۟ أَعْيُنَ ٱلنَّاسِ,PSYCHOLOGY_AND_EMOTION,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,17,3,2
+7_117,فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ,NATURE_FAUNA,REVELATION_AND_GUIDANCE,Argumentation & Persuasion,14,4,1
+7_118,فَوَقَعَ ٱلْحَقُّ,NATURE_ELEMENTS,REVELATION_AND_GUIDANCE,Clarification & Imagery,13,4,2
+7_126,أَفْرِغْ عَلَيْنَا صَبْرًا,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,16,5,2
+7_141,يَسُومُونَكُمْ سُوءَ ٱلْعَذَابِ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Warning & Intimidation,5,1,7
+7_143,فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Warning & Intimidation,2,0,7
+7_146,سَأَصْرِفُ عَنْ ءَايَٰتِىَ,TRAVEL_AND_PATH,THEOLOGY,Clarification & Imagery,20,6,2
+7_147,حَبِطَتْ أَعْمَٰلُهُمْ,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,14,1,3
+7_149,وَلَمَّا سُقِطَ فِىٓ أَيْدِيهِمْ,PSYCHOLOGY_AND_EMOTION,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,17,5,7
+7_154,وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ,SOUND_AND_VOICE,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,18,5,2
+7_155,فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ,WAR_AND_CONFLICT,THEOLOGY,Warning & Intimidation,21,6,7
+7_156,وَٱكْتُبْ لَنَا... فَسَأَكْتُبُهَا,TOOLS_AND_ARTIFACTS,THEOLOGY,Glorification & Exaltation,19,6,5
+7_157,وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Glorification & Exaltation,12,4,5
+7_167,مَن يَسُومُهُمْ سُوٓءَ ٱلْعَذَابِ,AGRICULTURE_LABOR,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,1,3,7
+7_169,وَرِثُوا۟ ٱلْكِتَٰبَ,FAMILY_AND_SOCIETY,REVELATION_AND_GUIDANCE,Condemnation & Criticism,7,4,3
+7_170,يُمَسِّكُونَ بِٱلْكِتَٰبِ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Glorification & Exaltation,19,1,5
+7_171,نَتَقْنَا ٱلْجَبَلَ,NATURE_ELEMENTS,THEOLOGY,Warning & Intimidation,13,6,7
+7_172,وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا۟ بَلَىٰ ۛ شَهِدْنَا,FAMILY_AND_SOCIETY,THEOLOGY,Argumentation & Persuasion,7,6,1
+7_175,فَٱنسَلَخَ مِنْهَا,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,14,1,3
+7_176,أَخْلَدَ إِلَى ٱلْأَرْضِ,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,13,5,3
+7_179,أُو۟لَٰٓئِكَ كَٱلْأَنْعَٰمِ بَلْ هُمْ أَضَلُّ,NATURE_FAUNA,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,14,3,3
+7_182,سَنَسْتَدْرِجُهُم,TRAVEL_AND_PATH,THEOLOGY,Warning & Intimidation,20,6,7
+7_186,وَيَذَرُهُمْ فِى طُغْيَٰنِهِمْ يَعْمَهُونَ,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,20,5,3
+7_187,أَيَّانَ مُرْسَىٰهَا,TRAVEL_AND_PATH,ESCHATOLOGY,Clarification & Imagery,20,2,2
+7_187,ثَقُلَتْ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ,NATURE_ELEMENTS,ESCHATOLOGY,Warning & Intimidation,13,2,7
+7_200,يَنزَغَنَّكَ ... نَزْغٌ,AGRICULTURE_LABOR,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,1,5,2
+7_201,إِذَا مَسَّهُمْ طَٰٓئِفٌ مِّنَ ٱلشَّيْطَٰنِ,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,7,5,2
+7_202,يَمُدُّونَهُمْ فِى ٱلْغَىِّ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+7_203,هَٰذَا بَصَآئِرُ مِن رَّبِّكُمْ,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Glorification & Exaltation,12,4,5
+8_7,وَيَقْطَعَ دَابِرَ ٱلْكَافِرِينَ,NATURE_FLORA,THEOLOGY,Warning & Intimidation,15,6,7
+8_11,...وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+8_22,ٱلصُّمُّ ٱلْبُكْمُ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,2,3,3
+8_24,إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Glorification & Exaltation,2,4,5
+8_26,يَتَخَطَّفَكُمُ,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Warning & Intimidation,14,1,7
+8_30,وَيَمْكُرُ ٱللَّهُ,WAR_AND_CONFLICT,THEOLOGY,Consolation & Reassurance,21,6,4
+8_37,وَيَجْعَلَ ٱلْخَبِيثَ بَعْضَهُۥ عَلَىٰ بَعْضٍۢ فَيَرْكُمَهُۥ جَمِيعًا فَيَجْعَلَهُۥ فِى جَهَنَّمَ,NATURE_ELEMENTS,ESCHATOLOGY,Condemnation & Criticism,13,2,3
+8_42,لِّيَهْلِكَ مَنْ هَلَكَ عَنۢ بَيِّنَةٍ وَيَحْيَىٰ مَنْ حَىَّ عَنۢ بَيِّنَةٍ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+8_46,وَتَذْهَبَ رِيحُكُمْ,NATURE_METEO_HYDRO,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,16,3,7
+8_48,نَكَصَ عَلَىٰ عَقِبَيْهِ,WAR_AND_CONFLICT,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,21,3,3
+8_49,غَرَّ هَٰٓؤُلَآءِ دِينُهُمْ,CLOTHING_AND_ADORNMENT,REVELATION_AND_GUIDANCE,Condemnation & Criticism,4,4,3
+8_50,وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Clarification & Imagery,2,2,2
+8_55,إِنَّ شَرَّ ٱلدَّوَآبِّ... ٱلَّذِينَ كَفَرُوا۟,NATURE_FAUNA,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,14,3,3
+8_61,وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Clarification & Imagery,14,1,2
+8_63,وَأَلَّفَ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,19,5,5
+9_5,وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+9_8,وَتَأْبَىٰ قُلُوبُهُمْ,PSYCHOLOGY_AND_EMOTION,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,17,5,3
+9_9,اشْتَرَوْا بِآيَاتِ اللَّهِ ثَمَنًا قَلِيلًا,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+9_15,وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+9_23,إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ,PSYCHOLOGY_AND_EMOTION,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,17,5,3
+9_25,وَضَاقَتْ عَلَيْكُمُ ٱلْأَرْضُ بِمَا رَحُبَتْ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,2,5,7
+9_32,يُرِيدُونَ أَن يُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ,LIGHT_AND_DARKNESS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,12,1,3
+9_34,لَيَأْكُلُونَ أَمْوَالَ النَّاسِ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,2,1,3
+9_38,ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,13,1,3
+9_45,وَٱرْتَابَتْ قُلُوبُهُمْ,PSYCHOLOGY_AND_EMOTION,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,17,5,2
+9_47,وَلَأَوْضَعُوا۟ خِلَٰلَكُمْ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+9_48,وَقَلَّبُوا لَكَ الْأُمُورَ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,19,1,3
+9_49,سَقَطُوا۟,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,13,1,3
+9_57,وَهُمْ يَجْمَحُونَ,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,14,1,3
+9_61,يَقُولُونَ هُوَ أُذُنٌ ۚ قُلْ أُذُنُ خَيْرٍ لَّكُمْ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,2,3,3
+9_67,وَيَقْبِضُونَ أَيْدِيَهُمْ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,2,1,3
+9_79,سَخِرَ ٱللَّهُ مِنْهُمْ,PSYCHOLOGY_AND_EMOTION,THEOLOGY,Warning & Intimidation,17,6,7
+9_87,وَطُبِعَ عَلَىٰ قُلُوبِهِمْ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+9_92,وَأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ,NATURE_METEO_HYDRO,HUMAN_AGENTS_AND_GROUPS,Glorification & Exaltation,16,3,5
+9_93,رَضُوا۟ بِأَن يَكُونُوا۟ مَعَ ٱلْخَوَالِفِ,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,7,3,3
+9_99,سَيُدْخِلُهُمُ ٱللَّهُ فِى رَحْمَتِهِ,BUILDINGS_AND_SHELTER,THEOLOGY,Clarification & Imagery,3,6,2
+9_107,وَإِرْصَادًا لِّمَنْ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,21,1,3
+9_109,أَفَمَنْ أَسَّسَ بُنْيَٰنَهُۥ ... أَم مَّنْ أَسَّسَ بُنْيَٰنَهُۥ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَٱنْهَارَ بِهِۦ,BUILDINGS_AND_SHELTER,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,3,5,2
+9_110,لَا يَزَالُ بُنْيَٰنُهُمُ... رِيبَةً,PSYCHOLOGY_AND_EMOTION,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,17,1,3
+9_110,إِلَّآ أَن تَقَطَّعَ قُلُوبُهُمْ,TOOLS_AND_ARTIFACTS,ESCHATOLOGY,Warning & Intimidation,19,2,7
+9_111,إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ,COMMERCE_AND_EXCHANGE,REVELATION_AND_GUIDANCE,Glorification & Exaltation,5,4,5
+9_112,ٱلسَّٰٓئِحُونَ,TRAVEL_AND_PATH,HUMAN_AGENTS_AND_GROUPS,Glorification & Exaltation,20,3,5
+9_113,أَنَّهُمْ أَصْحَابُ الْجَحِيمِ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Affirmation & Establishment,7,2,0
+9_117,سَاعَةِ ٱلْعُسْرَةِ,NATURE_METEO_HYDRO,WORLDLY_LIFE,Consolation & Reassurance,16,7,4
+9_118,ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+9_118,وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,4,5,2
+9_120,إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٌ صَٰلِحٌ,TOOLS_AND_ARTIFACTS,THEOLOGY,Affirmation & Establishment,19,6,0
+9_124,فَزَادَتْهُمْ إِيمَانًا,DIVINE_LAWS,REVELATION_AND_GUIDANCE,Glorification & Exaltation,6,4,5
+9_125,فِى قُلُوبِهِم مَّرَضٌ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,2,5,3
+9_127,صَرَفَ ٱللَّهُ قُلُوبَهُم,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+10_2,قَدَمَ صِدْقٍ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Clarification & Imagery,2,2,2
+10_3,ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ,FAMILY_AND_SOCIETY,THEOLOGY,Clarification & Imagery,7,6,2
+10_9,يَهْدِيهِمْ رَبُّهُم بِإِيمَٰنِهِمْ,LIGHT_AND_DARKNESS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,12,5,2
+10_11,فِي طُغْيَانِهِمْ يَعْمَهُونَ,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,16,5,3
+10_12,مَرَّ كَأَن لَّمْ يَدْعُنَآ إِلَىٰ ضُرٍّ مَّسَّهُۥ,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,7,5,3
+10_21,وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةً,BODY_AND_PHYSIOLOGY,WORLDLY_LIFE,Clarification & Imagery,2,7,2
+10_22,وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ,WAR_AND_CONFLICT,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,21,5,7
+10_24,إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ... كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ,NATURE_FLORA,WORLDLY_LIFE,Condemnation & Criticism,15,7,3
+10_27,كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًا مِّنَ ٱلَّيْلِ مُظْلِمًا,LIGHT_AND_DARKNESS,ESCHATOLOGY,Clarification & Imagery,12,2,2
+10_30,وَضَلَّ عَنْهُم مَّا كَانُوا يَفْتَرُونَ,TRAVEL_AND_PATH,THEOLOGY,Clarification & Imagery,20,6,2
+10_36,إِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Condemnation & Criticism,2,4,3
+10_37,تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Clarification & Imagery,2,4,2
+10_42,أَفَأَنتَ تُسْمِعُ الصُّمَّ,SOUND_AND_VOICE,HUMAN_AGENTS_AND_GROUPS,Consolation & Reassurance,18,3,4
+10_43,أَفَأَنتَ تَهْدِي الْعُمْيَ,LIGHT_AND_DARKNESS,HUMAN_AGENTS_AND_GROUPS,Consolation & Reassurance,12,3,4
+10_52,ذُوقُوا۟,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Condemnation & Criticism,2,2,3
+10_57,وَشِفَاءٌ لِّمَا فِي الصُّدُورِ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Clarification & Imagery,2,4,2
+10_61,إِذْ تُفِيضُونَ فِيهِ,NATURE_METEO_HYDRO,DEEDS_AND_BEHAVIOR,Clarification & Imagery,16,1,2
+10_67,وَٱلنَّهَارَ مُبْصِرًا,LIGHT_AND_DARKNESS,COSMOLOGY_AND_NATURE,Clarification & Imagery,12,0,2
+10_70,ثُمَّ نُذِيقُهُمُ ٱلْعَذَابَ ٱلشَّدِيدَ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Warning & Intimidation,2,2,7
+10_74,نَطْبَعُ عَلَىٰ قُلُوبِ ٱلْمُعْتَدِينَ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,19,5,7
+10_88,رَبَّنَا اطْمِسْ عَلَىٰ أَمْوَالِهِمْ,TOOLS_AND_ARTIFACTS,WORLDLY_LIFE,Clarification & Imagery,19,7,2
+10_88,وَاشْدُدْ عَلَىٰ قُلُوبِهِمْ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+10_96,حَقَّتْ عَلَيْهِمْ كَلِمَتُ,COMMERCE_AND_EXCHANGE,THEOLOGY,Clarification & Imagery,5,6,2
+11_9,أَذَقْنَا,BODY_AND_PHYSIOLOGY,THEOLOGY,Condemnation & Criticism,2,6,3
+11_10,وَلَئِنْ أَذَقْنَٰهُ نَعْمَآءَ,BODY_AND_PHYSIOLOGY,THEOLOGY,Clarification & Imagery,2,6,2
+11_12,وَضَآئِقٌۢ بِهِۦ صَدْرُكَ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+11_19,وَيَبْغُونَهَا عِوَجًا,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,20,1,3
+11_21,خَسِرُوا أَنْفُسَهُمْ,COMMERCE_AND_EXCHANGE,ESCHATOLOGY,Clarification & Imagery,5,2,2
+11_28,فَعُمِّيَتْ عَلَيْكُمْ,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,4,5,2
+11_37,وَاصْنَعِ الْفُلْكَ بِأَعْيُنِنَا,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Consolation & Reassurance,7,3,4
+11_40,وَفَارَ ٱلتَّنُّورُ,FIRE_AND_HEAT,COSMOLOGY_AND_NATURE,Clarification & Imagery,8,0,2
+11_44,يَٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَٰسَمَآءُ أَقْلِعِى,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Warning & Intimidation,7,0,7
+11_44,ٱبْلَعِى مَآءَكِ,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Clarification & Imagery,2,0,2
+11_52,يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا,NATURE_METEO_HYDRO,COSMOLOGY_AND_NATURE,Glorification & Exaltation,16,0,5
+11_56,مَّآ مِن دَآبَّةٍ إِلَّا هُوَ ءَاخِذٌۢ بِنَاصِيَتِهَآ,FAMILY_AND_SOCIETY,THEOLOGY,Glorification & Exaltation,7,6,5
+11_72,وَأَنَا۠ عَجُوزٌ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,2,5,3
+11_74,فَلَمَّا ذَهَبَ عَنْ إِبْرَٰهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,7,5,2
+11_80,أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍ شَدِيدٍ,BUILDINGS_AND_SHELTER,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,3,3,2
+11_87,أَصَلَوٰتُكَ تَأْمُرُكَ,FAMILY_AND_SOCIETY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,7,1,3
+11_92,وَٱتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيًّا,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Clarification & Imagery,2,1,2
+11_98,فَأَوْرَدَهُمُ ٱلنَّارَ,NATURE_FAUNA,ESCHATOLOGY,Condemnation & Criticism,14,2,3
+11_100,مِنْهَا قَآئِمٌ وَحَصِيدٌ,NATURE_FLORA,REVELATION_AND_GUIDANCE,Clarification & Imagery,15,4,2
+11_113,فَتَمَسَّكُمُ ٱلنَّارُ,NATURE_FAUNA,ESCHATOLOGY,Warning & Intimidation,14,2,7
+11_123,وَإِلَيْهِ يُرْجَعُ ٱلْأَمْرُ كُلُّهُۥ,COMMERCE_AND_EXCHANGE,THEOLOGY,Clarification & Imagery,5,6,2
+12_4,رَأَيْتُهُمْ لِى سَٰجِدِينَ,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Glorification & Exaltation,2,0,5
+12_18,بِدَمٍ كَذِبٍ,FAMILY_AND_SOCIETY,WORLDLY_LIFE,Clarification & Imagery,7,7,2
+12_19,يَٰبُشْرَىٰ هَٰذَا غُلَٰمٌ,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,7,5,2
+12_30,قَدْ شَغَفَهَا حُبًّا,WAR_AND_CONFLICT,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,21,5,7
+12_43,سَبْعَ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ,NATURE_FAUNA,COSMOLOGY_AND_NATURE,Clarification & Imagery,14,0,2
+12_46,يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ,NATURE_FAUNA,COSMOLOGY_AND_NATURE,Clarification & Imagery,14,0,2
+12_48,يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ,NATURE_FAUNA,COSMOLOGY_AND_NATURE,Warning & Intimidation,14,0,7
+12_50,مَا بَالُ ٱلنِّسْوَةِ ٱلَّٰتِى قَطَّعْنَ أَيْدِيَهُنَّ,HISTORY_AND_TRADITION,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,9,3,2
+12_51,حَصْحَصَ ٱلْحَقُّ,NATURE_ELEMENTS,REVELATION_AND_GUIDANCE,Affirmation & Establishment,13,4,0
+12_52,لَا يَهْدِي كَيْدَ الْخَائِنِينَ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Affirmation & Establishment,20,1,0
+12_53,إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,7,5,2
+12_83,بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,7,5,2
+12_87,وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ,NATURE_METEO_HYDRO,THEOLOGY,Incentive & Attraction,16,6,6
+12_100,نَّزَغَ ٱلشَّيْطَٰنُ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,21,1,3
+13_3,يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ,CLOTHING_AND_ADORNMENT,COSMOLOGY_AND_NATURE,Clarification & Imagery,4,0,2
+13_5,وَأُولَٰئِكَ الْأَغْلَالُ فِي أَعْنَاقِهِمْ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,19,5,3
+13_13,وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Clarification & Imagery,7,0,2
+13_15,وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Clarification & Imagery,7,0,2
+13_16,هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَمْ هَلْ تَسْتَوِى ٱلظُّلُمَٰتُ وَٱلنُّورُ,LIGHT_AND_DARKNESS,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,12,3,2
+13_19,كَمَنْ هُوَ أَعْمَىٰ,LIGHT_AND_DARKNESS,HUMAN_AGENTS_AND_GROUPS,Argumentation & Persuasion,12,3,1
+13_31,تُصِيبُهُم ... قَارِعَةٌ,SOUND_AND_VOICE,WORLDLY_LIFE,Warning & Intimidation,18,7,7
+13_33,هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفْسٍۭ بِمَا كَسَبَتْ,FAMILY_AND_SOCIETY,THEOLOGY,Clarification & Imagery,7,6,2
+13_41,نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَا,WAR_AND_CONFLICT,THEOLOGY,Warning & Intimidation,21,6,7
+14_1,مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Clarification & Imagery,12,4,2
+14_1,إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+14_3,وَيَبْغُونَهَا عِوَجًا,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,20,5,2
+14_5,أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Clarification & Imagery,12,4,2
+14_11,وَلَٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ,COMMERCE_AND_EXCHANGE,THEOLOGY,Glorification & Exaltation,5,6,5
+14_12,وَقَدْ هَدَىٰنَا سُبُلَنَا,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Glorification & Exaltation,20,4,5
+14_17,وَيَأْتِيهِ ٱلْمَوْتُ مِن كُلِّ مَكَانٍ,NATURE_FAUNA,ESCHATOLOGY,Warning & Intimidation,14,2,7
+14_25,تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ رَبِّهَا,NATURE_FLORA,DEEDS_AND_BEHAVIOR,Incentive & Attraction,15,1,6
+14_28,بَدَّلُوا۟ نِعْمَتَ ٱللَّهِ كُفْرًا,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+14_36,إِنَّهُنَّ أَضْلَلْنَ,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,7,3,2
+14_37,فَٱجْعَلْ أَفْـِٔدَةً مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ,NATURE_FAUNA,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,14,5,2
+14_41,يَقُومُ ٱلْحِسَابُ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Clarification & Imagery,7,2,2
+14_42,تَشْخَصُ فِيهِ ٱلْأَبْصَٰرُ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,2,3,7
+14_46,وَإِن كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ ٱلْجِبَالُ,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Warning & Intimidation,13,1,7
+14_50,سَرَابِيلُهُم مِّن قَطِرَانٍ,CLOTHING_AND_ADORNMENT,ESCHATOLOGY,Condemnation & Criticism,4,2,3
+15_3,وَيُلْهِهِمُ الْأَمَلُ,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,7,5,2
+15_12,نَسْلُكُهُۥ فِى قُلُوبِ ٱلْمُجْرِمِينَ,TOOLS_AND_ARTIFACTS,THEOLOGY,Clarification & Imagery,19,6,2
+15_15,إِنَّمَا سُكِّرَتْ أَبْصَارُنَا,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,2,3,3
+15_18,ٱسْتَرَقَ ٱلسَّمْعَ,COMMERCE_AND_EXCHANGE,REVELATION_AND_GUIDANCE,Clarification & Imagery,5,4,2
+15_18,فَأَتْبَعَهُۥ شِهَابٌ مُّبِينٌ,WAR_AND_CONFLICT,COSMOLOGY_AND_NATURE,Clarification & Imagery,21,0,2
+15_21,عِندَنَا خَزَآئِنُهُۥ,BUILDINGS_AND_SHELTER,THEOLOGY,Glorification & Exaltation,3,6,5
+15_22,وَأَرْسَلْنَا الرِّيَاحَ لَوَاقِحَ,NATURE_FAUNA,COSMOLOGY_AND_NATURE,Clarification & Imagery,14,0,2
+15_41,هَٰذَا صِرَٰطٌ عَلَىَّ مُسْتَقِيمٌ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+15_47,وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Incentive & Attraction,2,2,6
+15_55,بَشَّرْنَٰكَ بِٱلْحَقِّ,COMMERCE_AND_EXCHANGE,REVELATION_AND_GUIDANCE,Affirmation & Establishment,5,4,0
+15_72,إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,2,5,3
+15_88,وَٱخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Clarification & Imagery,14,1,2
+15_94,فَٱصْدَعْ بِمَا تُؤْمَرُ,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Incentive & Attraction,13,1,6
+15_97,يَضِيقُ صَدْرُكَ,BUILDINGS_AND_SHELTER,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,3,5,2
+16_2,بِٱلرُّوحِ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Glorification & Exaltation,2,4,5
+16_25,لِيَحْمِلُوٓا۟ أَوْزَارَهُمْ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+16_26,فَأَتَى ٱللَّهُ بُنْيَٰنَهُم مِّنَ ٱلْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ ٱلسَّقْفُ مِن فَوْقِهِمْ,BUILDINGS_AND_SHELTER,DEEDS_AND_BEHAVIOR,Glorification & Exaltation,3,1,5
+16_28,فَأَلْقَوُا۟ ٱلسَّلَمَ,WAR_AND_CONFLICT,REVELATION_AND_GUIDANCE,Clarification & Imagery,21,4,2
+16_29,فَلَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ,BUILDINGS_AND_SHELTER,ESCHATOLOGY,Condemnation & Criticism,3,2,3
+16_33,أَوْ يَأْتِىَ أَمْرُ رَبِّكَ,WAR_AND_CONFLICT,ESCHATOLOGY,Warning & Intimidation,21,2,7
+16_34,فَأَصَابَهُمْ سَيِّئَاتُ مَا عَمِلُوا,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+16_48,يَتَفَيَّؤُا۟ ظِلَٰلُهُۥ ... سُجَّدًا,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Clarification & Imagery,7,0,2
+16_53,ثُمَّ إِذَا مَسَّكُمُ ٱلضُّرُّ فَإِلَيْهِ تَجْـَٔرُونَ,SOUND_AND_VOICE,DEEDS_AND_BEHAVIOR,Clarification & Imagery,18,1,2
+16_54,كَشَفَ ٱلضُّرَّ عَنكُمْ,CLOTHING_AND_ADORNMENT,WORLDLY_LIFE,Clarification & Imagery,4,7,2
+16_62,وَتَصِفُ أَلْسِنَتُهُمُ ٱلْكَذِبَ,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,7,3,2
+16_63,فَزَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ,FAMILY_AND_SOCIETY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,7,1,3
+16_64,وَهُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ,DIVINE_LAWS,REVELATION_AND_GUIDANCE,Glorification & Exaltation,6,4,5
+16_65,فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Argumentation & Persuasion,2,0,1
+16_69,فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا,TRAVEL_AND_PATH,COSMOLOGY_AND_NATURE,Clarification & Imagery,20,0,2
+16_86,فَأَلْقَوْا۟ إِلَيْهِمُ ٱلْقَوْلَ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+16_87,وَأَلْقَوْا۟ إِلَى ٱللَّهِ يَوْمَئِذٍ ٱلسَّلَمَ,WAR_AND_CONFLICT,ESCHATOLOGY,Clarification & Imagery,21,2,2
+16_94,فَتَزِلَّ قَدَمٌ بَعْدَ ثُبُوتِهَا,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Warning & Intimidation,20,1,7
+16_95,وَلَا تَشْتَرُوا بِعَهْدِ اللَّهِ ثَمَنًا قَلِيلًا,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Clarification & Imagery,5,1,2
+16_108,طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,19,5,7
+16_112,فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,4,5,7
+16_116,تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,7,3,2
+16_120,إِنَّ إِبْرَاهِيمَ كَانَ أُمَّةً,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Glorification & Exaltation,7,3,5
+17_8,وَجَعَلْنَا جَهَنَّمَ لِلْكَٰفِرِينَ حَصِيرًا,BUILDINGS_AND_SHELTER,ESCHATOLOGY,Warning & Intimidation,3,2,7
+17_9,يَهْدِي لِلَّتِي هِيَ أَقْوَمُ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+17_12,فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً,LIGHT_AND_DARKNESS,COSMOLOGY_AND_NATURE,Clarification & Imagery,12,0,2
+17_13,أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ فِى عُنُقِهِۦ,CLOTHING_AND_ADORNMENT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,4,1,2
+17_14,ٱقْرَأْ كِتَٰبَكَ,TOOLS_AND_ARTIFACTS,ESCHATOLOGY,Warning & Intimidation,19,2,7
+17_24,وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ,NATURE_FAUNA,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,14,3,2
+17_29,وَلَا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَىٰ عُنُقِكَ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,21,1,3
+17_29,وَلَا تَبْسُطْهَا كُلَّ ٱلْبَسْطِ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Warning & Intimidation,2,1,7
+17_34,مَسْـُٔولًا,FAMILY_AND_SOCIETY,REVELATION_AND_GUIDANCE,Warning & Intimidation,7,4,7
+17_44,وَإِن مِّن شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Glorification & Exaltation,7,0,5
+17_45,حِجَابًا مَّسْتُورًا,BUILDINGS_AND_SHELTER,THEOLOGY,Consolation & Reassurance,3,6,4
+17_46,أَكِنَّةً,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,4,5,2
+17_57,وَيَرْجُونَ رَحْمَتَهُۥ,COMMERCE_AND_EXCHANGE,THEOLOGY,Clarification & Imagery,5,6,2
+17_57,وَيَخَافُونَ عَذَابَهُۥٓ,WAR_AND_CONFLICT,ESCHATOLOGY,Clarification & Imagery,21,2,2
+17_59,وَءَاتَيْنَا ثَمُودَ ٱلنَّاقَةَ مُبْصِرَةً,HISTORY_AND_TRADITION,COSMOLOGY_AND_NATURE,Clarification & Imagery,9,0,2
+17_60,أَحَاطَ بِٱلنَّاسِ,WAR_AND_CONFLICT,THEOLOGY,Consolation & Reassurance,21,6,4
+17_62,لَأَحْتَنِكَنَّ ذُرِّيَّتَهُ,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Warning & Intimidation,14,1,7
+17_64,وَاسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِم بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِي الْأَمْوَالِ وَالْأَوْلَادِ وَعِدْهُمْ,WAR_AND_CONFLICT,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,21,3,2
+17_72,وَمَن كَانَ فِى هَٰذِهِۦٓ أَعْمَىٰ,LIGHT_AND_DARKNESS,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,12,3,3
+17_72,فَهُوَ فِى ٱلْءَاخِرَةِ أَعْمَىٰ وَأَضَلُّ سَبِيلًا,LIGHT_AND_DARKNESS,ESCHATOLOGY,Warning & Intimidation,12,2,7
+17_74,تَرْكَنُ إِلَيْهِمْ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+17_75,إِذًا لَّأَذَقْنَاكَ ضِعْفَ الْحَيَاةِ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Clarification & Imagery,2,2,2
+17_76,لَيَسْتَفِزُّونَكَ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Warning & Intimidation,21,1,7
+17_81,جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ,WAR_AND_CONFLICT,REVELATION_AND_GUIDANCE,Clarification & Imagery,21,4,2
+17_100,خَزَائِنَ رَحْمَةِ رَبِّي,COMMERCE_AND_EXCHANGE,THEOLOGY,Glorification & Exaltation,5,6,5
+17_107,يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Clarification & Imagery,13,1,2
+17_109,وَيَخِرُّونَ لِلْأَذْقَانِ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Glorification & Exaltation,2,3,5
+18_5,كَبُرَتْ كَلِمَةً,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,13,1,3
+18_6,فَلَعَلَّكَ بَاخِعٌ نَفْسَكَ عَلَىٰ آثَارِهِمْ,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Consolation & Reassurance,20,5,4
+18_14,وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+18_16,يَنشُرْ لَكُمْ رَبُّكُم مِّن رَّحْمَتِهِ,TOOLS_AND_ARTIFACTS,THEOLOGY,Clarification & Imagery,19,6,2
+18_17,تَزَاوَرُ عَن كَهْفِهِمْ ... تَقْرِضُهُمْ ذَاتَ الشِّمَالِ,TRAVEL_AND_PATH,COSMOLOGY_AND_NATURE,Clarification & Imagery,20,0,2
+18_21,غَلَبُوا عَلَى أَمْرِهِمْ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+18_22,رَجْمًا بِالْغَيْبِ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,21,1,3
+18_28,أَغْفَلْنَا قَلْبَهُ,PSYCHOLOGY_AND_EMOTION,THEOLOGY,Condemnation & Criticism,17,6,3
+18_33,وَفَجَّرْنَا خِلَٰلَهُمَا نَهَرًا,NATURE_METEO_HYDRO,COSMOLOGY_AND_NATURE,Glorification & Exaltation,16,0,5
+18_42,فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+18_45,وَاضْرِبْ لَهُمْ مَثَلَ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنْزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَاحُ,NATURE_FLORA,WORLDLY_LIFE,Clarification & Imagery,15,7,2
+18_51,وَمَا كُنتُ مُتَّخِذَ الْمُضِلِّينَ عَضُدًا,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,2,3,2
+18_52,وَجَعَلْنَا بَيْنَهُم مَّوْبِقًا,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,13,5,2
+18_57,إِنَّا جَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,19,5,3
+18_77,جِدَارًا يُرِيدُ أَنْ يَنْقَضَّ,BODY_AND_PHYSIOLOGY,WORLDLY_LIFE,Clarification & Imagery,2,7,2
+18_99,يَمُوجُ فِي بَعْضٍ,NATURE_METEO_HYDRO,ESCHATOLOGY,Clarification & Imagery,16,2,2
+18_101,كَانَتْ أَعْيُنُهُمْ فِي غِطَاءٍ,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,4,5,3
+18_104,ضَلَّ سَعْيُهُمْ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+18_105,فَحَبِطَتْ أَعْمَالُهُمْ,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Clarification & Imagery,14,1,2
+19_4,وَاشْتَعَلَ الرَّأْسُ شَيْبًا,FIRE_AND_HEAT,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,8,3,7
+19_40,نَرِثُ الْأَرْضَ,COMMERCE_AND_EXCHANGE,THEOLOGY,Warning & Intimidation,5,6,7
+19_44,لَا تَعْبُدِ الشَّيْطَانَ,FAMILY_AND_SOCIETY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,7,1,3
+19_45,أَن يَمَسَّكَ عَذَابٌ,NATURE_FAUNA,THEOLOGY,Consolation & Reassurance,14,6,4
+19_50,وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا,BODY_AND_PHYSIOLOGY,WORLDLY_LIFE,Glorification & Exaltation,2,7,5
+19_63,نُورِثُ,COMMERCE_AND_EXCHANGE,ESCHATOLOGY,Affirmation & Establishment,5,2,0
+19_81,لِّيَكُونُوا لَهُمْ عِزًّا,WAR_AND_CONFLICT,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,21,3,3
+19_84,إِنَّمَا نَعُدُّ لَهُمْ عَدًّا,COMMERCE_AND_EXCHANGE,THEOLOGY,Warning & Intimidation,5,6,7
+19_86,وَنَسُوقُ الْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًا,NATURE_FAUNA,ESCHATOLOGY,Condemnation & Criticism,14,2,3
+19_90,تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Condemnation & Criticism,2,0,3
+20_25,اشْرَحْ لِي صَدْرِي,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+20_27,وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي,TOOLS_AND_ARTIFACTS,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,19,3,2
+20_31,اشْدُدْ بِهِ أَزْرِي,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+20_45,أَن يَفْرُطَ عَلَيْنَا,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Clarification & Imagery,14,1,2
+20_70,فَأُلْقِيَ السَّحَرَةُ سُجَّدًا,WAR_AND_CONFLICT,REVELATION_AND_GUIDANCE,Glorification & Exaltation,21,4,5
+20_81,فَيَحِلَّ عَلَيْكُمْ غَضَبِي... وَمَنْ يَحْلِلْ عَلَيْهِ غَضَبِي فَقَدْ هَوَى,NATURE_ELEMENTS,THEOLOGY,Warning & Intimidation,13,6,7
+20_86,أَفَطَالَ عَلَيْكُمُ الْعَهْدُ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Condemnation & Criticism,2,4,3
+20_96,فَقَبَضْتُ قَبْضَةً مِّنْ أَثَرِ الرَّسُولِ فَنَبَذْتُهَا,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,13,1,3
+20_98,وَسِعَ كُلَّ شَيْءٍ عِلْمًا,TOOLS_AND_ARTIFACTS,THEOLOGY,Glorification & Exaltation,19,6,5
+20_100,فَإِنَّهُ يَحْمِلُ يَوْمَ الْقِيَامَةِ وِزْرًا,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+20_108,وَخَشَعَتِ الْأَصْوَاتُ لِلرَّحْمَنِ,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,7,3,7
+20_111,وَعَنَتِ الْوُجُوهُ,WAR_AND_CONFLICT,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,21,3,2
+20_111,وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+20_124,وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ,LIGHT_AND_DARKNESS,ESCHATOLOGY,Warning & Intimidation,12,2,7
+20_126,تُنسَىٰ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Affirmation & Establishment,2,2,0
+20_131,زَهْرَةَ الْحَيَاةِ الدُّنْيَا,NATURE_FLORA,WORLDLY_LIFE,Condemnation & Criticism,15,7,3
+21_3,أَفَتَأْتُونَ السِّحْرَ وَأَنْتُمْ تُبْصِرُونَ,ABSTRACT_SYSTEMS,REVELATION_AND_GUIDANCE,Condemnation & Criticism,0,4,3
+21_11,وَكَمْ قَصَمْنَا مِن قَرْيَةٍ,TOOLS_AND_ARTIFACTS,THEOLOGY,Warning & Intimidation,19,6,7
+21_15,حَتَّىٰ جَعَلْنَاهُمْ حَصِيدًا خَامِدِينَ,NATURE_FLORA,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,15,3,7
+21_18,بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ,WAR_AND_CONFLICT,THEOLOGY,Clarification & Imagery,21,6,2
+21_33,كُلٌّ فِي فَلَكٍ يَسْبَحُونَ,TRAVEL_AND_PATH,COSMOLOGY_AND_NATURE,Clarification & Imagery,20,0,2
+21_35,كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ,NATURE_FLORA,ESCHATOLOGY,Clarification & Imagery,15,2,2
+21_37,خُلِقَ الْإِنْسَانُ مِنْ عَجَلٍ,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,13,5,2
+21_41,مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ,PSYCHOLOGY_AND_EMOTION,THEOLOGY,Clarification & Imagery,17,6,2
+21_44,أَنَّا نَأْتِي الْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَا,WAR_AND_CONFLICT,THEOLOGY,Warning & Intimidation,21,6,7
+21_45,وَلَا يَسْمَعُ الصُّمُّ الدُّعَاءَ إِذَا مَا يُنْذَرُونَ,SOUND_AND_VOICE,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,18,3,3
+21_46,نَفْحَةٌ,NATURE_METEO_HYDRO,THEOLOGY,Glorification & Exaltation,16,6,5
+21_47,وَنَضَعُ الْمَوَازِينَ الْقِسْطَ,TOOLS_AND_ARTIFACTS,THEOLOGY,Clarification & Imagery,19,6,2
+21_48,وَضِيَاءً,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Glorification & Exaltation,12,4,5
+21_69,يَا نَارُ كُونِي,SOUND_AND_VOICE,COSMOLOGY_AND_NATURE,Clarification & Imagery,18,0,2
+21_74,تَعْمَلُ الْخَبَائِثَ,FAMILY_AND_SOCIETY,WORLDLY_LIFE,Affirmation & Establishment,7,7,0
+21_75,وَأَدْخَلْنَاهُ فِي رَحْمَتِنَا,BUILDINGS_AND_SHELTER,THEOLOGY,Glorification & Exaltation,3,6,5
+21_78,إِذْ نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ,NATURE_FAUNA,WORLDLY_LIFE,Clarification & Imagery,14,7,2
+21_79,وَسَخَّرْنَا مَعَ دَاوُودَ الْجِبَالَ يُسَبِّحْنَ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Clarification & Imagery,7,0,2
+21_81,تَجْرِي بِأَمْرِهِ,NATURE_FAUNA,COSMOLOGY_AND_NATURE,Clarification & Imagery,14,0,2
+21_83,مَسَّنِيَ الضُّرُّ,NATURE_FAUNA,WORLDLY_LIFE,Glorification & Exaltation,14,7,5
+21_86,وَأَدْخَلْنَاهُمْ فِي رَحْمَتِنَا,BUILDINGS_AND_SHELTER,THEOLOGY,Clarification & Imagery,3,6,2
+21_87,فَنَادَىٰ فِي الظُّلُمَاتِ,LIGHT_AND_DARKNESS,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,12,5,7
+21_93,وَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,19,1,3
+21_96,وَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ,NATURE_FAUNA,ESCHATOLOGY,Warning & Intimidation,14,2,7
+21_107,وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً,PSYCHOLOGY_AND_EMOTION,HUMAN_AGENTS_AND_GROUPS,Glorification & Exaltation,17,3,5
+22_9,ثَانِيَ عِطْفِهِ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,2,1,3
+22_11,يَعْبُدُ اللَّهَ عَلَىٰ حَرْفٍ,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Clarification & Imagery,13,1,2
+22_15,فَلْيَمْدُدْ بِسَبَبٍ إِلَى السَّمَاءِ ثُمَّ لْيَقْطَعْ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,19,1,3
+22_18,أَنَّ اللَّهَ يَسْجُدُ لَهُ مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ...,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Glorification & Exaltation,2,0,5
+22_19,قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ,CLOTHING_AND_ADORNMENT,ESCHATOLOGY,Warning & Intimidation,4,2,7
+22_20,يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ وَالْجُلُودُ,FIRE_AND_HEAT,ESCHATOLOGY,Warning & Intimidation,8,2,7
+22_24,وَهُدُوا إِلَىٰ صِرَاطِ الْحَمِيدِ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+22_32,فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Affirmation & Establishment,2,5,0
+22_35,وَجِلَتْ قُلُوبُهُمْ,PSYCHOLOGY_AND_EMOTION,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,17,5,2
+22_36,فَإِذَا وَجَبَتْ جُنُوبُهَا,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Clarification & Imagery,14,1,2
+22_37,يَنَالُهُ التَّقْوَىٰ مِنكُمْ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,19,5,5
+22_47,وَإِنَّ يَوْمًا عِندَ رَبِّكَ كَأَلْفِ سَنَةٍ مِّمَّا تَعُدُّونَ,HISTORY_AND_TRADITION,THEOLOGY,Warning & Intimidation,9,6,7
+22_51,سَعَوْا فِي آيَاتِنَا مُعَاجِزِينَ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+22_52,أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ فَيَنسَخُ اللَّهُ مَا يُلْقِي الشَّيْطَانُ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Consolation & Reassurance,19,1,4
+22_53,فِي قُلُوبِهِمْ مَرَضٌ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+22_54,فَتُخْبِتَ لَهُ قُلُوبُهُمْ,PSYCHOLOGY_AND_EMOTION,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,17,5,2
+22_55,عَذَابُ يَوْمٍ عَقِيمٍ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Warning & Intimidation,2,2,7
+22_72,يَكَادُونَ يَسْطُونَ بِالَّذِينَ يَتْلُونَ عَلَيْهِمْ آيَاتِنَا,NATURE_FAUNA,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,14,5,2
+23_27,وَفَارَ التَّنُّورُ,FIRE_AND_HEAT,COSMOLOGY_AND_NATURE,Warning & Intimidation,8,0,7
+23_53,فَتَقَطَّعُوا أَمْرَهُمْ بَيْنَهُمْ زُبُرًا,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,21,1,3
+23_54,فِي غَمْرَتِهِمْ,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,16,5,7
+23_56,نُسَارِعُ لَهُمْ فِي الْخَيْرَاتِ,TRAVEL_AND_PATH,THEOLOGY,Condemnation & Criticism,20,6,3
+23_61,يُسَارِعُونَ فِي الْخَيْرَاتِ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Incentive & Attraction,20,1,6
+23_62,وَلَدَيْنَا كِتَابٌ يَنطِقُ بِالْحَقِّ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Consolation & Reassurance,7,2,4
+23_63,بَلْ قُلُوبُهُمْ فِي غَمْرَةٍ,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,16,5,7
+23_77,فَتَحْنَا عَلَيْهِم بَابًا ذَا عَذَابٍ شَدِيدٍ,BUILDINGS_AND_SHELTER,THEOLOGY,Warning & Intimidation,3,6,7
+23_89,فَأَنَّىٰ تُسْحَرُونَ,PSYCHOLOGY_AND_EMOTION,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,17,5,3
+23_97,هَمَزَاتِ الشَّيَاطِينِ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+23_106,غَلَبَتْ عَلَيْنَا شِقْوَتُنَا,WAR_AND_CONFLICT,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,21,5,2
+24_15,إِذْ تَلَقَّوْنَهُ بِأَلْسِنَتِكُمْ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,19,1,3
+24_21,لَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+24_24,يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُم,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,7,3,2
+24_27,حَتَّىٰ تَسْتَأْنِسُوا,FAMILY_AND_SOCIETY,DEEDS_AND_BEHAVIOR,Incentive & Attraction,7,1,6
+24_35,اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Clarification & Imagery,12,4,2
+24_37,تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ,NATURE_FAUNA,ESCHATOLOGY,Warning & Intimidation,14,2,7
+24_43,وَيُنَزِّلُ مِنَ السَّمَاءِ مِن جِبَالٍ,NATURE_ELEMENTS,COSMOLOGY_AND_NATURE,Warning & Intimidation,13,0,7
+24_44,يُقَلِّبُ اللَّهُ اللَّيْلَ وَالنَّهَارَ,TOOLS_AND_ARTIFACTS,COSMOLOGY_AND_NATURE,Glorification & Exaltation,19,0,5
+24_46,إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+24_50,أَفِي قُلُوبِهِم مَّرَضٌ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,2,5,3
+24_55,وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ,BUILDINGS_AND_SHELTER,REVELATION_AND_GUIDANCE,Glorification & Exaltation,3,4,5
+25_13,دَعَوْا هُنَالِكَ ثُبُورًا,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Warning & Intimidation,2,2,7
+25_19,وَمَن يَظْلِم مِّنكُمْ نُذِقْهُ عَذَابًا كَبِيرًا,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Clarification & Imagery,2,2,2
+25_27,يَعَضُّ الظَّالِمُ عَلَىٰ يَدَيْهِ,PSYCHOLOGY_AND_EMOTION,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,17,5,7
+25_28,يَا وَيْلَتَىٰ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+25_43,أَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,7,5,3
+25_46,قَبَضْنَاهُ إِلَيْنَا قَبْضًا يَسِيرًا,TOOLS_AND_ARTIFACTS,COSMOLOGY_AND_NATURE,Glorification & Exaltation,19,0,5
+25_48,أَرْسَلَ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Glorification & Exaltation,7,0,5
+25_49,لِّنُحْيِيَ بِهِ بَلْدَةً مَّيْتًا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Argumentation & Persuasion,2,0,1
+25_52,وَجَاهِدْهُم بِهِ,WAR_AND_CONFLICT,REVELATION_AND_GUIDANCE,Glorification & Exaltation,21,4,5
+25_57,أَن يَتَّخِذَ إِلَىٰ رَبِّهِ سَبِيلًا,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+25_59,ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ,FAMILY_AND_SOCIETY,THEOLOGY,Glorification & Exaltation,7,6,5
+25_73,لَمْ يَخِرُّوا عَلَيْهَا صُمًّا وَعُمْيَانًا,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Glorification & Exaltation,2,1,5
+25_75,أُولَٰئِكَ يُجْزَوْنَ الْغُرْفَةَ,BUILDINGS_AND_SHELTER,ESCHATOLOGY,Glorification & Exaltation,3,2,5
+26_3,لَعَلَّكَ بَاخِعٌ نَّفْسَكَ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+26_22,وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ أَنْ عَبَّدتَّ بَنِي إِسْرَائِيلَ,FAMILY_AND_SOCIETY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,7,1,3
+26_45,تَلْقَفُ مَا يَأْفِكُونَ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Clarification & Imagery,2,4,2
+26_46,فَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Clarification & Imagery,13,1,2
+26_119,الْمَشْحُونِ,TOOLS_AND_ARTIFACTS,THEOLOGY,Warning & Intimidation,19,6,7
+26_200,سَلَكْنَاهُ فِي قُلُوبِ الْمُجْرِمِينَ,TOOLS_AND_ARTIFACTS,THEOLOGY,Glorification & Exaltation,19,6,5
+26_215,وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Clarification & Imagery,14,1,2
+26_225,فِي كُلِّ وَادٍ يَهِيمُونَ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,20,1,3
+27_3,يُقِيمُونَ الصَّلَاةَ,BUILDINGS_AND_SHELTER,DEEDS_AND_BEHAVIOR,Glorification & Exaltation,3,1,5
+27_4,زَيَّنَّا لَهُمْ أَعْمَالَهُمْ,CLOTHING_AND_ADORNMENT,DEEDS_AND_BEHAVIOR,Warning & Intimidation,4,1,7
+27_6,وَإِنَّكَ لَتُلَقَّى الْقُرْآنَ,FAMILY_AND_SOCIETY,REVELATION_AND_GUIDANCE,Glorification & Exaltation,7,4,5
+27_13,مُبْصِرَةً,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Glorification & Exaltation,2,4,5
+27_22,أَحَطتُ بِمَا لَمْ تُحِطْ بِهِ,BUILDINGS_AND_SHELTER,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,3,5,5
+27_24,فَصَدَّهُمْ عَنِ السَّبِيلِ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+27_40,قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Clarification & Imagery,2,1,2
+27_47,طَائِرُكُمْ عِندَ اللَّهِ,NATURE_FAUNA,THEOLOGY,Argumentation & Persuasion,14,6,1
+27_49,مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Warning & Intimidation,13,1,7
+27_56,إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ,FAMILY_AND_SOCIETY,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,7,1,3
+27_63,بَيْنَ يَدَيْ رَحْمَتِهِ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Glorification & Exaltation,7,0,5
+27_66,بَلِ ادَّارَكَ عِلْمُهُمْ فِي الْآخِرَةِ,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,20,5,3
+27_80,إِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,2,3,3
+27_80,وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,2,3,3
+27_81,وَمَا أَنتَ بِهَادِي الْعُمْيِ عَن ضَلَالَتِهِمْ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,2,3,3
+27_86,وَالنَّهَارَ مُبْصِرًا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Clarification & Imagery,2,0,2
+28_10,رَّبَطْنَا عَلَىٰ قَلْبِهَا,TOOLS_AND_ARTIFACTS,THEOLOGY,Clarification & Imagery,19,6,2
+28_32,وَاضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ الرَّهْبِ,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Consolation & Reassurance,14,1,4
+28_35,سَنَشُدُّ عَضُدَكَ,BODY_AND_PHYSIOLOGY,THEOLOGY,Consolation & Reassurance,2,6,4
+28_41,أَئِمَّةً,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,7,3,3
+28_45,فَتَطَاوَلَ عَلَيْهِمُ الْعُمُرُ,FAMILY_AND_SOCIETY,WORLDLY_LIFE,Clarification & Imagery,7,7,2
+28_57,نُتَخَطَّفْ مِنْ أَرْضِنَا,NATURE_FAUNA,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,14,5,7
+28_58,بَطِرَتْ مَعِيشَتَهَا,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,7,3,7
+28_66,فَعَمِيَتْ عَلَيْهِمُ الْأَنْبَاءُ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Warning & Intimidation,2,4,7
+28_80,وَلَا يُلَقَّاهَا إِلَّا الصَّابِرُونَ,TOOLS_AND_ARTIFACTS,REVELATION_AND_GUIDANCE,Glorification & Exaltation,19,4,5
+28_86,أَن يُلْقَىٰ إِلَيْكَ الْكِتَابُ,TOOLS_AND_ARTIFACTS,REVELATION_AND_GUIDANCE,Glorification & Exaltation,19,4,5
+29_17,وَتَخْلُقُونَ إِفْكًا,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,19,1,3
+29_38,فَصَدَّهُمْ عَنِ السَّبِيلِ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+29_45,إِنَّ الصَّلَاةَ تَنْهَىٰ,FAMILY_AND_SOCIETY,DEEDS_AND_BEHAVIOR,Glorification & Exaltation,7,1,5
+29_57,كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Clarification & Imagery,2,2,2
+29_63,فَأَحْيَا بِهِ الْأَرْضَ مِن بَعْدِ مَوْتِهَا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Argumentation & Persuasion,2,0,1
+29_67,وَيُتَخَطَّفُ النَّاسُ مِنْ حَوْلِهِمْ,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Warning & Intimidation,14,1,7
+29_69,لَنَهْدِيَنَّهُمْ سُبُلَنَا,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+30_9,وَأَثَارُوا الْأَرْضَ,AGRICULTURE_LABOR,DEEDS_AND_BEHAVIOR,Glorification & Exaltation,1,1,5
+30_19,وَيُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Argumentation & Persuasion,2,0,1
+30_24,فَيُحْيِي بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Argumentation & Persuasion,2,0,1
+30_25,ثُمَّ إِذَا دَعَاكُمْ دَعْوَةً مِنَ الْأَرْضِ إِذَا أَنْتُمْ تَخْرُجُونَ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Argumentation & Persuasion,7,2,1
+30_29,اتَّبَعَ ... أَهْوَاءَهُم,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,7,5,3
+30_33,أَذَاقَهُم مِّنْهُ رَحْمَةً,BODY_AND_PHYSIOLOGY,THEOLOGY,Clarification & Imagery,2,6,2
+30_35,فَهُوَ يَتَكَلَّمُ,FAMILY_AND_SOCIETY,REVELATION_AND_GUIDANCE,Clarification & Imagery,7,4,2
+30_36,وَإِذَا أَذَقْنَا النَّاسَ رَحْمَةً,BODY_AND_PHYSIOLOGY,WORLDLY_LIFE,Condemnation & Criticism,2,7,3
+30_44,يَمْهَدُونَ,BUILDINGS_AND_SHELTER,ESCHATOLOGY,Clarification & Imagery,3,2,2
+30_46,يُرْسِلَ الرِّيَاحَ مُبَشِّرَاتٍ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Incentive & Attraction,7,0,6
+30_50,آثَارِ رَحْمَتِ اللَّهِ ... يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Argumentation & Persuasion,2,0,1
+30_52,فَإِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,2,3,3
+30_53,الْعُمْيِ,LIGHT_AND_DARKNESS,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,12,3,3
+30_59,يَطْبَعُ اللَّهُ عَلَىٰ قُلُوبِ ٱلَّذِينَ لَا يَعْلَمُونَ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,19,5,3
+31_4,{ يُقِيمُونَ الصَّلَاةَ },BUILDINGS_AND_SHELTER,DEEDS_AND_BEHAVIOR,Clarification & Imagery,3,1,2
+31_5,أُولَٰئِكَ عَلَىٰ هُدًى,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,20,5,5
+31_6,وَمِنَ النَّاسِ مَن يَشْتَرِي لَهْوَ الْحَدِيثِ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+31_7,فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Condemnation & Criticism,2,4,3
+31_16,يَأْتِ بِهَا اللَّهُ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Glorification & Exaltation,7,2,5
+31_21,يَدْعُوهُمْ إِلَىٰ عَذَابِ السَّعِيرِ,SOUND_AND_VOICE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,18,1,3
+31_22,فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+31_29,يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ,TOOLS_AND_ARTIFACTS,COSMOLOGY_AND_NATURE,Clarification & Imagery,19,0,2
+31_33,فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا,FAMILY_AND_SOCIETY,WORLDLY_LIFE,Clarification & Imagery,7,7,2
+32_20,{ وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ النَّارِ },BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Warning & Intimidation,2,2,7
+32_21,وَلَنُذِيقَنَّهُم مِّنَ الْعَذَابِ الْأَدْنَىٰ,BODY_AND_PHYSIOLOGY,WORLDLY_LIFE,Warning & Intimidation,2,7,7
+32_27,أَنَّا نَسُوقُ الْمَاءَ إِلَى الْأَرْضِ الْجُرُزِ,NATURE_FAUNA,COSMOLOGY_AND_NATURE,Glorification & Exaltation,14,0,5
+33_10,وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,2,5,7
+33_12,فِي قُلُوبِهِمْ مَرَضٌ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+33_19,سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,21,1,3
+33_26,مِن صَيَاصِيهِمْ,NATURE_FAUNA,WORLDLY_LIFE,Condemnation & Criticism,14,7,3
+33_32,فَيَطْمَعَ الَّذِي فِي قَلْبِهِ مَرَضٌ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,2,5,3
+33_43,لِيُخْرِجَكُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ,LIGHT_AND_DARKNESS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,12,5,2
+33_46,{ وَسِرَاجًا مُّنِيرًا },LIGHT_AND_DARKNESS,HUMAN_AGENTS_AND_GROUPS,Glorification & Exaltation,12,3,5
+33_72,إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنسَانُ,COMMERCE_AND_EXCHANGE,REVELATION_AND_GUIDANCE,Glorification & Exaltation,5,4,5
+34_8,فِي ٱلْعَذَابِ وَٱلضَّلَٰلِ ٱلْبَعِيدِ,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,20,5,3
+34_10,يَا جِبَالُ أَوِّبِي مَعَهُ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Glorification & Exaltation,7,0,5
+34_19,فَجَعَلْنَاهُمْ أَحَادِيثَ وَمَزَّقْنَاهُمْ كُلَّ مُمَزَّقٍ,CLOTHING_AND_ADORNMENT,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,4,3,7
+34_20,وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُ,LIGHT_AND_DARKNESS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,12,1,3
+34_23,حَتَّىٰ إِذَا فُزِّعَ عَن قُلُوبِهِمْ,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,4,5,2
+34_24,وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِي ضَلَالٍ مُّبِينٍ,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Argumentation & Persuasion,20,5,1
+34_33,بَلْ مَكْرُ اللَّيْلِ وَالنَّهَارِ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Warning & Intimidation,7,0,7
+34_38,وَالَّذِينَ يَسْعَوْنَ فِي آيَاتِنَا مُعَاجِزِينَ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+34_46,بَيْنَ يَدَيْ عَذَابٍ شَدِيدٍ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,2,3,7
+34_48,يَقْذِفُ,WAR_AND_CONFLICT,THEOLOGY,Glorification & Exaltation,21,6,5
+34_49,جَاءَ الْحَقُّ,WAR_AND_CONFLICT,REVELATION_AND_GUIDANCE,Clarification & Imagery,21,4,2
+34_49,وَمَا يُبْدِئُ الْبَاطِلُ وَمَا يُعِيدُ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Condemnation & Criticism,2,4,3
+34_52,وَأَنَّى لَهُمُ التَّنَاوُشُ مِنْ مَكَانٍ بَعِيدٍ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Condemnation & Criticism,2,2,3
+34_53,وَيَقْذِفُونَ بِالْغَيْبِ مِنْ مَكَانٍ بَعِيدٍ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,21,1,3
+35_2,مَّا يَفْتَحِ اللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ,BUILDINGS_AND_SHELTER,THEOLOGY,Clarification & Imagery,3,6,2
+35_3,فَأَنَّىٰ تُؤْفَكُونَ,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,20,5,3
+35_5,فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا,FAMILY_AND_SOCIETY,WORLDLY_LIFE,Clarification & Imagery,7,7,2
+35_9,بَلَدٍ مَيِّتٍ ... فَأَحْيَيْنَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Argumentation & Persuasion,2,0,1
+35_10,إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ,LIGHT_AND_DARKNESS,THEOLOGY,Clarification & Imagery,12,6,2
+35_13,يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ,TOOLS_AND_ARTIFACTS,COSMOLOGY_AND_NATURE,Argumentation & Persuasion,19,0,1
+35_18,{ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا },BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+35_19,وَمَا يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ,LIGHT_AND_DARKNESS,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,12,3,2
+35_20,وَلَا الظُّلُمَاتُ وَلَا النُّورُ,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Clarification & Imagery,12,4,2
+35_21,وَلَا الظِّلُّ وَلَا الْحَرُورُ,NATURE_METEO_HYDRO,ESCHATOLOGY,Clarification & Imagery,16,2,2
+35_22,وَمَا أَنتَ بِمُسْمِعٍ مَّن فِي الْقُبُورِ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Consolation & Reassurance,2,3,4
+35_29,يَرْجُونَ تِجَارَةً لَّن تَبُورَ,COMMERCE_AND_EXCHANGE,ESCHATOLOGY,Incentive & Attraction,5,2,6
+36_2,وَالْقُرْآنِ الْحَكِيمِ,FAMILY_AND_SOCIETY,REVELATION_AND_GUIDANCE,Glorification & Exaltation,7,4,5
+36_8,{ إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا فَهِيَ إِلَى الْأَذْقَانِ فَهُم مُّقْمَحُونَ },TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,19,5,7
+36_9,وَجَعَلْنَا مِن بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ,BUILDINGS_AND_SHELTER,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,3,5,7
+36_29,إِن كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ,SOUND_AND_VOICE,THEOLOGY,Warning & Intimidation,18,6,7
+36_30,يَا حَسْرَةً عَلَى الْعِبَادِ,SOUND_AND_VOICE,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,18,5,7
+36_33,الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Argumentation & Persuasion,2,0,1
+36_34,وَفَجَّرْنَا فِيهَا مِنَ الْعُيُونِ,NATURE_ELEMENTS,COSMOLOGY_AND_NATURE,Glorification & Exaltation,13,0,5
+36_37,نَسْلَخُ مِنْهُ النَّهَارَ,NATURE_FAUNA,COSMOLOGY_AND_NATURE,Glorification & Exaltation,14,0,5
+36_40,لَا الشَّمْسُ يَنبَغِي لَهَا أَن تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ ۚ وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ,HUMAN_ACTIVITIES,COSMOLOGY_AND_NATURE,Glorification & Exaltation,10,0,5
+36_52,مَن بَعَثَنَا مِن مَّرْقَدِنَا,BUILDINGS_AND_SHELTER,ESCHATOLOGY,Clarification & Imagery,3,2,2
+36_60,{ أَن لَّا تَعْبُدُوا الشَّيْطَانَ },FAMILY_AND_SOCIETY,DEEDS_AND_BEHAVIOR,Warning & Intimidation,7,1,7
+36_61,هَٰذَا صِرَاطٌ مُّسْتَقِيمٌ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+36_64,اصْلَوْهَا,FAMILY_AND_SOCIETY,ESCHATOLOGY,Condemnation & Criticism,7,2,3
+36_65,وَتُكَلِّمُنَا أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُم,FAMILY_AND_SOCIETY,ESCHATOLOGY,Warning & Intimidation,7,2,7
+36_70,لِّيُنذِرَ مَن كَانَ حَيّٗا,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,2,3,2
+36_83,بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ,FAMILY_AND_SOCIETY,THEOLOGY,Clarification & Imagery,7,6,2
+37_23,{ فَاهْدُوهُمْ إِلَىٰ صِرَاطِ الْجَحِيمِ },TRAVEL_AND_PATH,ESCHATOLOGY,Condemnation & Criticism,20,2,3
+37_70,فَهُمْ عَلَىٰ آثَارِهِمْ يُهْرَعُونَ,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,14,1,3
+37_93,فَرَاغَ عَلَيْهِمْ ضَرْبًا بِالْيَمِينِ,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Warning & Intimidation,14,1,7
+37_94,يَزِفُّونَ,NATURE_FAUNA,DEEDS_AND_BEHAVIOR,Clarification & Imagery,14,1,2
+37_177,فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَاءَ صَبَاحُ الْمُنْذَرِينَ,WAR_AND_CONFLICT,ESCHATOLOGY,Warning & Intimidation,21,2,7
+38_2,فِي عِزَّةٍ وَشِقَاقٍ,BUILDINGS_AND_SHELTER,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,3,5,2
+38_8,بَل لَّمَّا يَذُوقُوا عَذَابِ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Warning & Intimidation,2,2,7
+38_18,يُسَبِّحْنَ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Glorification & Exaltation,7,0,5
+38_23,لَهُ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِيَ نَعْجَةٌ وَاحِدَةٌ,NATURE_FAUNA,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,14,3,3
+38_24,{ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِ },NATURE_FAUNA,HUMAN_AGENTS_AND_GROUPS,Glorification & Exaltation,14,3,5
+38_26,وَلَا تَتَّبِعِ الْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,20,5,2
+38_32,حَتَّىٰ تَوَارَتْ بِالْحِجَابِ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Clarification & Imagery,7,0,2
+38_36,تَجْرِي,TRAVEL_AND_PATH,COSMOLOGY_AND_NATURE,Glorification & Exaltation,20,0,5
+38_41,مَسَّنِيَ الشَّيْطَانُ,NATURE_FAUNA,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,14,5,5
+38_56,فَبِئْسَ الْمِهَادُ,BUILDINGS_AND_SHELTER,ESCHATOLOGY,Condemnation & Criticism,3,2,3
+39_5,يُكَوِّرُ اللَّيْلَ عَلَى النَّهَارِ وَيُكَوِّرُ النَّهَارَ عَلَى اللَّيْلِ,CLOTHING_AND_ADORNMENT,COSMOLOGY_AND_NATURE,Clarification & Imagery,4,0,2
+39_8,نَسِيَ مَا كَانَ يَدْعُو إِلَيْهِ مِنْ قَبْلُ,PSYCHOLOGY_AND_EMOTION,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,17,1,3
+39_8,لِّيُضِلَّ عَن سَبِيلِهِ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Warning & Intimidation,20,4,7
+39_9,{ إِنَّمَا يَتَذَكَّرُ أُولُو الْأَلْبَابِ },NATURE_FLORA,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,15,5,5
+39_15,خَسِرُوا أَنفُسَهُمْ,COMMERCE_AND_EXCHANGE,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,5,3,7
+39_21,أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً... ثُمَّ يَجْعَلُهُ حُطَامًا,NATURE_FLORA,WORLDLY_LIFE,Clarification & Imagery,15,7,2
+39_22,{ أَفَمَن شَرَحَ اللَّهُ صَدْرَهُ لِلْإِسْلَامِ },TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+39_23,ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,19,5,2
+39_24,أَفَمَن يَتَّقِي بِوَجْهِهِ سُوءَ الْعَذَابِ,WAR_AND_CONFLICT,ESCHATOLOGY,Warning & Intimidation,21,2,7
+39_25,فَأَتَاهُمُ الْعَذَابُ,WAR_AND_CONFLICT,THEOLOGY,Clarification & Imagery,21,6,2
+39_26,فَأَذَاقَهُمُ اللَّهُ الْخِزْيَ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+39_51,فَأَصَابَهُمْ سَيِّئَاتُ مَا كَسَبُوا,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Warning & Intimidation,21,1,7
+39_56,فِي جَنْبِ اللَّهِ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Clarification & Imagery,2,1,2
+39_57,لَوْ أَنَّ اللَّهَ هَدَانِي,ABSTRACT_SYSTEMS,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,0,3,3
+39_63,لَّهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ,COMMERCE_AND_EXCHANGE,THEOLOGY,Clarification & Imagery,5,6,2
+39_74,وَأَوْرَثَنَا الْأَرْضَ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Glorification & Exaltation,7,2,5
+40_15,يُلْقِي الرُّوحَ مِنْ أَمْرِهِ,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Glorification & Exaltation,2,4,5
+40_19,يَعْلَمُ خَائِنَةَ الْأَعْيُنِ,FAMILY_AND_SOCIETY,DEEDS_AND_BEHAVIOR,Clarification & Imagery,7,1,2
+40_29,فَمَن يَنصُرُنَا مِن بَأْسِ ٱللَّهِ إِن جَآءَنَا,WAR_AND_CONFLICT,THEOLOGY,Warning & Intimidation,21,6,7
+40_35,يَطْبَعُ اللَّهُ عَلَى كُلِّ قَلْبِ مُتَكَبِّرٍ جَبَّارٍ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,19,5,7
+40_45,وَحَاقَ بِآلِ فِرْعَوْنَ سُوءُ الْعَذَابِ,WAR_AND_CONFLICT,THEOLOGY,Clarification & Imagery,21,6,2
+40_50,وَمَا دُعَاءُ الْكَافِرِينَ إِلَّا فِي ضَلَالٍ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,20,1,3
+40_58,وَمَا يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ,LIGHT_AND_DARKNESS,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,12,3,2
+40_61,وَالنَّهَارَ مُبْصِرًا,LIGHT_AND_DARKNESS,COSMOLOGY_AND_NATURE,Clarification & Imagery,12,0,2
+40_68,فَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ,FAMILY_AND_SOCIETY,THEOLOGY,Clarification & Imagery,7,6,2
+41_5,قُلُوبُنَا فِي أَكِنَّةٍ... وَفِي آذَانِنَا وَقْرٌ وَمِنْ بَيْنِنَا وَبَيْنِكَ حِجَابٌ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,19,5,3
+41_11,فَقَالَ لَهَا وَلِلْأَرْضِ ائْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَا أَتَيْنَا طَائِعِينَ,FAMILY_AND_SOCIETY,THEOLOGY,Clarification & Imagery,7,6,2
+41_12,بِمَصَابِيحَ,LIGHT_AND_DARKNESS,COSMOLOGY_AND_NATURE,Incentive & Attraction,12,0,6
+41_16,لِّنُذِيقَهُمْ عَذَابَ الْخِزْيِ,BODY_AND_PHYSIOLOGY,THEOLOGY,Clarification & Imagery,2,6,2
+41_17,فَاسْتَحَبُّوا الْعَمَىٰ عَلَى الْهُدَىٰ,LIGHT_AND_DARKNESS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,12,5,3
+41_20,شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَارُهُمْ وَجُلُودُهُمْ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Clarification & Imagery,7,0,2
+41_21,وَقَالُوا لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Warning & Intimidation,7,0,7
+41_22,أَن يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَا أَبْصَارُكُمْ وَلَا جُلُودُكُمْ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Warning & Intimidation,7,0,7
+41_23,وَذَلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنْتُمْ بِرَبِّكُمْ أَرْدَاكُمْ,NATURE_FAUNA,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,14,5,2
+41_27,فَلَنُذِيقَنَّ الَّذِينَ كَفَرُوا عَذَابًا شَدِيدًا,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Warning & Intimidation,2,2,7
+41_29,نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,2,5,7
+41_39,أَنَّكَ تَرَى الْأَرْضَ خَاشِعَةً فَإِذَا أَنزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ,NATURE_ELEMENTS,ESCHATOLOGY,Argumentation & Persuasion,13,2,1
+41_42,لَّا يَأْتِيهِ الْبَاطِلُ مِن بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ,WAR_AND_CONFLICT,REVELATION_AND_GUIDANCE,Clarification & Imagery,21,4,2
+41_44,أُولَٰئِكَ يُنَادَوْنَ مِن مَّكَانٍ بَعِيدٍ,SOUND_AND_VOICE,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,18,5,3
+41_50,وَلَئِنْ أَذَقْنَاهُ رَحْمَةً... وَلَنُذِيقَنَّهُمْ مِنْ عَذَابٍ,BODY_AND_PHYSIOLOGY,THEOLOGY,Clarification & Imagery,2,6,2
+41_51,فَذُو دُعَآءٍ عَرِيضٍ,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,13,1,3
+41_52,مِمَّنْ هُوَ فِي شِقَاقٍ بَعِيدٍ,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,20,5,3
+42_5,تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ,BUILDINGS_AND_SHELTER,COSMOLOGY_AND_NATURE,Glorification & Exaltation,3,0,5
+42_12,لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ,COMMERCE_AND_EXCHANGE,THEOLOGY,Clarification & Imagery,5,6,2
+42_20,مَن كَانَ يُرِيدُ حَرْثَ ٱلْءَاخِرَةِ... وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا,AGRICULTURE_LABOR,ESCHATOLOGY,Clarification & Imagery,1,2,2
+42_22,فِي رَوْضَاتِ ٱلْجَنَّاتِ,NATURE_FLORA,ESCHATOLOGY,Glorification & Exaltation,15,2,5
+42_24,فَإِن يَشَإِ اللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,19,5,5
+42_28,وَيَنشُرُ رَحْمَتَهُ,NATURE_METEO_HYDRO,THEOLOGY,Clarification & Imagery,16,6,2
+42_48,وَإِنَّا إِذَا أَذَقْنَا الْإِنسَانَ مِنَّا رَحْمَةً فَرِحَ بِهَا,BODY_AND_PHYSIOLOGY,THEOLOGY,Condemnation & Criticism,2,6,3
+42_52,أَوْحَيْنَا إِلَيْكَ رُوحًا,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Glorification & Exaltation,2,4,5
+42_52,وَلَٰكِنْ جَعَلْنَاهُ نُورًا نَهْدِي بِهِ,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Clarification & Imagery,12,4,2
+43_11,فَأَنشَرْنَا بِهِۦ بَلْدَةً مَّيْتًا ۚ كَذَٰلِكَ تُخْرَجُونَ,NATURE_ELEMENTS,ESCHATOLOGY,Argumentation & Persuasion,13,2,1
+43_36,وَمَن يَعْشُ عَن ذِكْرِ الرَّحْمَٰنِ,LIGHT_AND_DARKNESS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,12,1,3
+43_36,نُقَيِّضْ لَهُ شَيْطَانًا,COMMERCE_AND_EXCHANGE,THEOLOGY,Affirmation & Establishment,5,6,0
+43_40,أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ,SOUND_AND_VOICE,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,18,3,3
+43_40,أَوْ تَهْدِى ٱلْعُمْىَ,LIGHT_AND_DARKNESS,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,12,3,3
+43_43,فَاسْتَمْسِكْ بِالَّذِي أُوحِيَ إِلَيْكَ إِنَّكَ عَلَى صِرَاطٍ مُسْتَقِيمٍ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+43_48,وَأَخَذْنَاهُمْ بِالْعَذَابِ,WAR_AND_CONFLICT,THEOLOGY,Warning & Intimidation,21,6,7
+43_50,إِذَا هُمْ يَنْكُثُونَ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,19,1,3
+43_66,أَن تَأْتِيَهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ,WAR_AND_CONFLICT,ESCHATOLOGY,Clarification & Imagery,21,2,2
+43_71,وَتَلَذُّ الْأَعْيُنُ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Incentive & Attraction,2,5,6
+43_83,يَخُوضُوا۟,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,20,1,3
+44_9,بَلْ هُمْ فِي شَكٍّ يَلْعَبُونَ,PSYCHOLOGY_AND_EMOTION,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,17,5,3
+44_10,تَأْتِي السَّمَاءُ بِدُخَانٍ مُبِينٍ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Clarification & Imagery,7,0,2
+44_29,فَمَا بَكَتْ عَلَيْهِمُ ٱلسَّمَآءُ وَٱلْأَرْضُ,PSYCHOLOGY_AND_EMOTION,COSMOLOGY_AND_NATURE,Condemnation & Criticism,17,0,3
+44_49,إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْكَرِيمُ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Condemnation & Criticism,7,2,3
+45_5,فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Clarification & Imagery,2,0,2
+45_10,مِّن وَرَآئِهِمْ جَهَنَّمُ,WAR_AND_CONFLICT,ESCHATOLOGY,Warning & Intimidation,21,2,7
+45_21,أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,5,1,3
+45_23,اتَّخَذَ إِلَٰهَهُ هَوَىٰهُ,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,7,5,3
+45_29,هَٰذَا كِتَابُنَا يَنطِقُ عَلَيْكُم بِالْحَقِّ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Clarification & Imagery,7,2,2
+45_30,فَيُدْخِلُهُمْ رَبُّهُمْ فِي رَحْمَتِهِ,BUILDINGS_AND_SHELTER,ESCHATOLOGY,Glorification & Exaltation,3,2,5
+45_35,وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا,WAR_AND_CONFLICT,WORLDLY_LIFE,Clarification & Imagery,21,7,2
+46_20,وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Warning & Intimidation,7,2,7
+47_1,أَضَلَّ أَعْمَٰلَهُمْ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,20,1,3
+47_4,حَتَّىٰ تَضَعَ الْحَرْبُ أَوْزَارَهَا,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+47_13,قَرْيَتِكَ الَّتِي أَخْرَجَتْكَ,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,7,3,2
+47_16,طَبَعَ اللَّهُ عَلَى قُلُوبِهِمْ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,19,5,3
+47_20,يَنْظُرُونَ إِلَيْكَ نَظَرَ الْمَغْشِيِّ عَلَيْهِ مِنَ الْمَوْتِ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,2,5,3
+47_23,فَأَصَمَّهُمْ وَأَعْمَىٰ أَبْصَارَهُمْ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,2,5,3
+47_24,أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,19,5,3
+47_29,فِي قُلُوبِهِم مَّرَضٌ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,2,5,3
+47_32,وَسَيُحْبِطُ أَعْمَٰلَهُمْ,NATURE_FLORA,THEOLOGY,Warning & Intimidation,15,6,7
+48_4,أَنْزَلَ السَّكِينَةَ,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,16,5,5
+48_6,عَلَيۡهِمۡ دَآئِرَةُ ٱلسَّوۡءِ,WAR_AND_CONFLICT,ESCHATOLOGY,Warning & Intimidation,21,2,7
+48_10,يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ,COMMERCE_AND_EXCHANGE,THEOLOGY,Glorification & Exaltation,5,6,5
+48_21,قَدْ أَحَاطَ ٱللَّهُ بِهَا,WAR_AND_CONFLICT,THEOLOGY,Clarification & Imagery,21,6,2
+48_26,فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,16,5,5
+48_29,وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ,NATURE_FLORA,HUMAN_AGENTS_AND_GROUPS,Glorification & Exaltation,15,3,5
+49_3,امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,4,5,5
+49_7,وَزَيَّنَهُ فِي قُلُوبِكُمْ,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Incentive & Attraction,4,5,6
+49_11,وَلَا تَلْمِزُوا أَنفُسَكُمْ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,2,3,2
+50_4,مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Glorification & Exaltation,2,0,5
+50_7,وَأَلْقَيْنَا فِيهَا رَوَاسِيَ,TRAVEL_AND_PATH,THEOLOGY,Glorification & Exaltation,20,6,5
+50_19,وَجَآءَتْ سَكْرَةُ ٱلْمَوْتِ بِٱلْحَقِّ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Warning & Intimidation,2,2,7
+50_22,فَكَشَفْنَا عَنكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ,CLOTHING_AND_ADORNMENT,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,4,5,7
+50_30,وَتَقُولُ هَلْ مِن مَّزِيدٍ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Warning & Intimidation,2,2,7
+50_37,لِمَن كَانَ لَهُۥ قَلْبٌ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+50_37,أَوْ أَلْقَى ٱلسَّمْعَ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+51_11,فِى غَمْرَةٍ,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,16,5,3
+51_13,يُفْتَنُونَ,FIRE_AND_HEAT,ESCHATOLOGY,Warning & Intimidation,8,2,7
+51_14,ذُوقُوا۟ فِتْنَتَكُمْ,NATURE_FLORA,ESCHATOLOGY,Condemnation & Criticism,15,2,3
+51_39,فَتَوَلَّىٰ بِرُكْنِهِ,BUILDINGS_AND_SHELTER,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,3,3,2
+51_41,الرِّيحَ الْعَقِيمَ,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Warning & Intimidation,2,0,7
+51_48,وَالْأَرْضَ فَرَشْنَاهَا,BUILDINGS_AND_SHELTER,THEOLOGY,Incentive & Attraction,3,6,6
+51_50,فَفِرُّوٓاْ إِلَى ٱللَّهِ,WAR_AND_CONFLICT,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,21,5,7
+52_12,فِي خَوْضٍ يَلْعَبُونَ,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,20,5,3
+52_21,كُلُّ ٱمْرِئٍۭ بِمَا كَسَبَ رَهِينٌ,COMMERCE_AND_EXCHANGE,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,5,3,7
+52_32,أَمْ تَأْمُرُهُمْ أَحْلَامُهُمْ بِهَٰذَا,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,7,5,3
+52_40,فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+53_11,مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ,FAMILY_AND_SOCIETY,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,7,5,5
+54_11,فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ,BUILDINGS_AND_SHELTER,COSMOLOGY_AND_NATURE,Warning & Intimidation,3,0,7
+54_12,وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا,NATURE_METEO_HYDRO,COSMOLOGY_AND_NATURE,Warning & Intimidation,16,0,7
+55_6,وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Glorification & Exaltation,7,0,5
+55_19,مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ,NATURE_FAUNA,COSMOLOGY_AND_NATURE,Glorification & Exaltation,14,0,5
+55_20,بَيْنَهُمَا بَرْزَخٌ,BUILDINGS_AND_SHELTER,COSMOLOGY_AND_NATURE,Clarification & Imagery,3,0,2
+55_31,سَنَفْرُغُ لَكُمْ,FAMILY_AND_SOCIETY,THEOLOGY,Warning & Intimidation,7,6,7
+56_56,هَٰذَا نُزُلُهُمْ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Condemnation & Criticism,2,2,3
+57_6,يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ,NATURE_ELEMENTS,COSMOLOGY_AND_NATURE,Glorification & Exaltation,13,0,5
+57_9,لِيُخْرِجَكُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ,LIGHT_AND_DARKNESS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,12,5,3
+57_11,مَن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًا,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Incentive & Attraction,5,1,6
+57_15,هِيَ مَوْلَاكُمْ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Condemnation & Criticism,7,2,3
+57_16,{فَقَسَتْ قُلُوبُهُمْ},NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,13,5,3
+57_17,ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Incentive & Attraction,16,5,6
+57_18,وَأَقْرَضُواْ ٱللَّهَ قَرْضًا حَسَنًا,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Incentive & Attraction,5,1,6
+57_20,كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ,NATURE_FLORA,WORLDLY_LIFE,Condemnation & Criticism,15,7,3
+57_21,سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Incentive & Attraction,20,1,6
+57_28,وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِۦ,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Incentive & Attraction,12,4,6
+57_29,وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ,COMMERCE_AND_EXCHANGE,THEOLOGY,Clarification & Imagery,5,6,2
+58_19,ٱسْتَحْوَذَ عَلَيْهِمُ ٱلشَّيْطَٰنُ,WAR_AND_CONFLICT,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,21,3,7
+58_22,كَتَبَ فِي قُلُوبِهِمُ الْإِيمَانَ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,19,5,5
+59_2,فَأَتَىٰهُمُ ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟,WAR_AND_CONFLICT,THEOLOGY,Clarification & Imagery,21,6,2
+59_15,ذَاقُوا۟ وَبَالَ أَمْرِهِمْ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+59_18,لِغَدٍ,LIGHT_AND_DARKNESS,ESCHATOLOGY,Clarification & Imagery,12,2,2
+59_21,لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَٰشِعًا مُّتَصَدِّعًا,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,13,5,5
+60_2,{وَيَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُمْ بِالسُّوءِ},WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Warning & Intimidation,21,1,7
+61_8,يُرِيدُونَ لِيُطْفِـُٔواْ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ,LIGHT_AND_DARKNESS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,12,1,3
+61_10,هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ,COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Incentive & Attraction,5,1,6
+62_9,فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Glorification & Exaltation,20,1,5
+62_10,وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ,FAMILY_AND_SOCIETY,WORLDLY_LIFE,Glorification & Exaltation,7,7,5
+63_3,فَطُبِعَ عَلَىٰ قُلُوبِهِمْ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,19,5,3
+63_4,كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ,NATURE_FLORA,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,15,3,3
+64_5,فَذَاقُوا وَبَالَ أَمْرِهِمْ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,2,5,2
+64_8,وَٱلنُّورِ ٱلَّذِىٓ أَنزَلْنَا,LIGHT_AND_DARKNESS,REVELATION_AND_GUIDANCE,Glorification & Exaltation,12,4,5
+64_17,{إِن تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا},COMMERCE_AND_EXCHANGE,DEEDS_AND_BEHAVIOR,Incentive & Attraction,5,1,6
+65_8,عَتَتْ عَنْ أَمْرِ رَبِّهَا,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Warning & Intimidation,2,1,7
+65_9,فَذَاقَتْ وَبَالَ أَمْرِهَا,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Warning & Intimidation,2,2,7
+65_10,قَدْ أَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًا,BODY_AND_PHYSIOLOGY,REVELATION_AND_GUIDANCE,Clarification & Imagery,2,4,2
+65_11,لِّيُخْرِجَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ,LIGHT_AND_DARKNESS,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,12,5,2
+66_8,نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ,TRAVEL_AND_PATH,ESCHATOLOGY,Clarification & Imagery,20,2,2
+67_2,خَلَقَ الْمَوْتَ,NATURE_ELEMENTS,ESCHATOLOGY,Clarification & Imagery,13,2,2
+67_4,يَنقَلِبْ إِلَيْكَ ٱلْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Clarification & Imagery,21,1,2
+67_5,بِمَصَٰبِيحَ,LIGHT_AND_DARKNESS,COSMOLOGY_AND_NATURE,Incentive & Attraction,12,0,6
+67_7,سَمِعُوا لَهَا شَهِيقًا وَهِيَ تَفُورُ,NATURE_FAUNA,ESCHATOLOGY,Warning & Intimidation,14,2,7
+67_8,تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ,PSYCHOLOGY_AND_EMOTION,ESCHATOLOGY,Clarification & Imagery,17,2,2
+67_30,أَصْبَحَ مَآؤُكُمْ غَوْرًا,NATURE_ELEMENTS,COSMOLOGY_AND_NATURE,Warning & Intimidation,13,0,7
+68_4,وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ,NATURE_ELEMENTS,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,13,5,5
+68_9,وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,19,1,3
+68_16,سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ,NATURE_FAUNA,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,14,3,3
+68_43,تَرْهَقُهُمْ ذِلَّةٌ,NATURE_METEO_HYDRO,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,16,5,7
+68_44,سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ,WAR_AND_CONFLICT,THEOLOGY,Warning & Intimidation,21,6,7
+68_51,لَيُزْلِقُونَكَ بِأَبْصَٰرِهِمْ,WAR_AND_CONFLICT,DEEDS_AND_BEHAVIOR,Warning & Intimidation,21,1,7
+69_6,بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Warning & Intimidation,7,0,7
+69_11,طَغَا الْمَاءُ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Warning & Intimidation,7,0,7
+69_16,فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ,BUILDINGS_AND_SHELTER,COSMOLOGY_AND_NATURE,Warning & Intimidation,3,0,7
+69_21,فِي عِيشَةٍ رَاضِيَةٍ,PSYCHOLOGY_AND_EMOTION,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,17,3,2
+70_17,تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّىٰ,SOUND_AND_VOICE,ESCHATOLOGY,Warning & Intimidation,18,2,7
+70_20,إِذَا مَسَّهُ ٱلشَّرُّ,NATURE_FAUNA,WORLDLY_LIFE,Condemnation & Criticism,14,7,3
+70_21,وَإِذَا مَسَّهُ الْخَيْرُ,FAMILY_AND_SOCIETY,WORLDLY_LIFE,Condemnation & Criticism,7,7,3
+70_42,فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,20,5,3
+70_44,تَرْهَقُهُمْ ذِلَّةٌ,LIGHT_AND_DARKNESS,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,12,5,7
+71_7,جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ,BODY_AND_PHYSIOLOGY,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,2,5,3
+71_16,وَجَعَلَ الشَّمْسَ سِرَاجًا,LIGHT_AND_DARKNESS,COSMOLOGY_AND_NATURE,Clarification & Imagery,12,0,2
+71_17,وَاللَّهُ أَنبَتَكُم مِّنَ الْأَرْضِ نَبَاتًا,NATURE_FLORA,THEOLOGY,Clarification & Imagery,15,6,2
+71_19,وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا,TOOLS_AND_ARTIFACTS,COSMOLOGY_AND_NATURE,Incentive & Attraction,19,0,6
+71_20,لِتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا,TOOLS_AND_ARTIFACTS,COSMOLOGY_AND_NATURE,Clarification & Imagery,19,0,2
+72_8,لَمَسْنَا ٱلسَّمَآءَ,BODY_AND_PHYSIOLOGY,DEEDS_AND_BEHAVIOR,Clarification & Imagery,2,1,2
+72_15,فَكَانُوا لِجَهَنَّمَ حَطَبًا,FIRE_AND_HEAT,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,8,3,7
+72_16,{وَأَلَّوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُم مَّاءً غَدَقًا},TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Incentive & Attraction,20,5,6
+72_17,يَسْلُكْهُ عَذَابًا صَعَدًا,TRAVEL_AND_PATH,ESCHATOLOGY,Warning & Intimidation,20,2,7
+72_19,كَادُوا۟ يَكُونُونَ عَلَيْهِ لِبَدًا,NATURE_FAUNA,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,14,3,7
+72_27,يَسْلُكُ مِن بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا,FAMILY_AND_SOCIETY,THEOLOGY,Glorification & Exaltation,7,6,5
+73_5,إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا,NATURE_ELEMENTS,REVELATION_AND_GUIDANCE,Glorification & Exaltation,13,4,5
+73_7,إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Clarification & Imagery,20,1,2
+73_18,ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ,BUILDINGS_AND_SHELTER,COSMOLOGY_AND_NATURE,Warning & Intimidation,3,0,7
+75_7,بَرِقَ الْبَصَرُ,LIGHT_AND_DARKNESS,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,12,5,7
+75_29,وَالْتَفَّتِ السَّاقُ بِالسَّاقِ,BODY_AND_PHYSIOLOGY,ESCHATOLOGY,Warning & Intimidation,2,2,7
+77_8,{النُّجُومُ طُمِسَتْ},LIGHT_AND_DARKNESS,COSMOLOGY_AND_NATURE,Warning & Intimidation,12,0,7
+77_9,وَإِذَا السَّمَاءُ فُرِجَتْ,BUILDINGS_AND_SHELTER,COSMOLOGY_AND_NATURE,Warning & Intimidation,3,0,7
+77_10,وَإِذَا الْجِبَالُ نُسِفَتْ,NATURE_ELEMENTS,COSMOLOGY_AND_NATURE,Warning & Intimidation,13,0,7
+77_11,أُقِّتَتْ,FAMILY_AND_SOCIETY,HUMAN_AGENTS_AND_GROUPS,Warning & Intimidation,7,3,7
+80_25,أَنَّا صَبَبْنَا الْمَاءَ صَبًّا,NATURE_METEO_HYDRO,COSMOLOGY_AND_NATURE,Glorification & Exaltation,16,0,5
+80_26,ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا,AGRICULTURE_LABOR,THEOLOGY,Glorification & Exaltation,1,6,5
+81_1,إِذَا الشَّمْسُ كُوِّرَتْ,CLOTHING_AND_ADORNMENT,COSMOLOGY_AND_NATURE,Warning & Intimidation,4,0,7
+81_2,وَإِذَا النُّجُومُ انكَدَرَتْ,NATURE_FAUNA,COSMOLOGY_AND_NATURE,Warning & Intimidation,14,0,7
+81_3,وَإِذَا الْجِبَالُ سُيِّرَتْ,NATURE_METEO_HYDRO,COSMOLOGY_AND_NATURE,Glorification & Exaltation,16,0,5
+81_4,وَإِذَا الْعِشَارُ عُطِّلَتْ,NATURE_FAUNA,ESCHATOLOGY,Warning & Intimidation,14,2,7
+81_5,حُشِرَتْ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Warning & Intimidation,7,2,7
+81_6,{الْبِحَارُ سُجِّرَتْ},FIRE_AND_HEAT,COSMOLOGY_AND_NATURE,Warning & Intimidation,8,0,7
+81_7,وَإِذَا النُّفُوسُ زُوِّجَتْ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Clarification & Imagery,7,2,2
+81_11,وَإِذَا السَّمَاءُ كُشِطَتْ,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Warning & Intimidation,2,0,7
+81_17,وَاللَّيْلِ إِذَا عَسْعَسَ,WAR_AND_CONFLICT,COSMOLOGY_AND_NATURE,Clarification & Imagery,21,0,2
+81_18,وَٱلصُّبْحِ إِذَا تَنَفَّسَ,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Glorification & Exaltation,2,0,5
+81_26,فَأَيْنَ تَذْهَبُونَ,TRAVEL_AND_PATH,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,20,5,3
+82_1,إِذَا السَّمَاءُ انفَطَرَتْ,BUILDINGS_AND_SHELTER,COSMOLOGY_AND_NATURE,Warning & Intimidation,3,0,7
+82_2,وَإِذَا الْكَوَاكِبُ انتَثَرَتْ,CLOTHING_AND_ADORNMENT,COSMOLOGY_AND_NATURE,Warning & Intimidation,4,0,7
+82_3,وَإِذَا الْبِحَارُ فُجِّرَتْ,BUILDINGS_AND_SHELTER,ESCHATOLOGY,Warning & Intimidation,3,2,7
+82_4,وَإِذَا الْقُبُورُ بُعْثِرَتْ,TOOLS_AND_ARTIFACTS,ESCHATOLOGY,Warning & Intimidation,19,2,7
+83_14,بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ,NATURE_ELEMENTS,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,13,1,3
+84_1,إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ,BUILDINGS_AND_SHELTER,COSMOLOGY_AND_NATURE,Warning & Intimidation,3,0,7
+84_3,وَإِذَا الْأَرْضُ مُدَّتْ,TOOLS_AND_ARTIFACTS,ESCHATOLOGY,Warning & Intimidation,19,2,7
+84_4,وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Clarification & Imagery,2,0,2
+84_19,لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ,TRAVEL_AND_PATH,ESCHATOLOGY,Warning & Intimidation,20,2,7
+85_11,لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ذَلِكَ الْفَوْزُ الْكَبِيرُ,HUMAN_CONDITION,ESCHATOLOGY,Incentive & Attraction,11,2,6
+85_19,بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Condemnation & Criticism,19,5,3
+86_9,يَوْمَ تُبْلَى السَّرَائِرُ,COMMERCE_AND_EXCHANGE,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,5,5,7
+89_9,جَابُواْ,CLOTHING_AND_ADORNMENT,DEEDS_AND_BEHAVIOR,Glorification & Exaltation,4,1,5
+89_21,إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا,NATURE_ELEMENTS,COSMOLOGY_AND_NATURE,Warning & Intimidation,13,0,7
+89_22,وَجَاءَ رَبُّكَ,FAMILY_AND_SOCIETY,THEOLOGY,Warning & Intimidation,7,6,7
+89_23,وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ,NATURE_FAUNA,ESCHATOLOGY,Warning & Intimidation,14,2,7
+90_10,النَّجْدَيْنِ,TRAVEL_AND_PATH,REVELATION_AND_GUIDANCE,Clarification & Imagery,20,4,2
+90_11,فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ,TRAVEL_AND_PATH,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,20,1,3
+91_10,وَقَدْ خَابَ مَنْ دَسَّاهَا,COMMERCE_AND_EXCHANGE,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,5,3,3
+91_14,فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ,NATURE_ELEMENTS,THEOLOGY,Warning & Intimidation,13,6,7
+92_1,{وَٱلَّيْلِ إِذَا يَغْشَىٰ},NATURE_ELEMENTS,COSMOLOGY_AND_NATURE,Glorification & Exaltation,13,0,5
+92_2,وَالنَّهَارِ إِذَا تَجَلَّىٰ,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Clarification & Imagery,7,0,2
+92_7,فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ,HUMAN_CONDITION,DEEDS_AND_BEHAVIOR,Incentive & Attraction,11,1,6
+92_10,فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ,TRAVEL_AND_PATH,THEOLOGY,Condemnation & Criticism,20,6,3
+92_11,إِذَا تَرَدَّىٰ,NATURE_ELEMENTS,ESCHATOLOGY,Warning & Intimidation,13,2,7
+93_2,وَاللَّيْلِ إِذَا سَجَىٰ,NATURE_METEO_HYDRO,COSMOLOGY_AND_NATURE,Clarification & Imagery,16,0,2
+94_1,أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ,TOOLS_AND_ARTIFACTS,SPIRITUAL_PSYCHOLOGY,Glorification & Exaltation,19,5,5
+94_2,وَوَضَعْنَا عَنكَ وِزْرَكَ,HUMAN_ACTIVITIES,DEEDS_AND_BEHAVIOR,Clarification & Imagery,10,1,2
+94_3,الَّذِي أَنقَضَ ظَهْرَكَ,HUMAN_ACTIVITIES,SPIRITUAL_PSYCHOLOGY,Clarification & Imagery,10,5,2
+94_4,وَرَفَعْنَا لَكَ ذِكْرَكَ,BUILDINGS_AND_SHELTER,THEOLOGY,Glorification & Exaltation,3,6,5
+96_16,نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ,BODY_AND_PHYSIOLOGY,HUMAN_AGENTS_AND_GROUPS,Condemnation & Criticism,2,3,3
+99_1,{إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا},BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Clarification & Imagery,2,0,2
+99_2,وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا,BODY_AND_PHYSIOLOGY,COSMOLOGY_AND_NATURE,Warning & Intimidation,2,0,7
+99_4,يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا,FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Warning & Intimidation,7,0,7
+99_5,{بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا},FAMILY_AND_SOCIETY,COSMOLOGY_AND_NATURE,Warning & Intimidation,7,0,7
+101_1,ٱلۡقَارِعَةُ,SOUND_AND_VOICE,ESCHATOLOGY,Warning & Intimidation,18,2,7
+101_2,الْقَارِعَةُ,SOUND_AND_VOICE,ESCHATOLOGY,Warning & Intimidation,18,2,7
+101_3,الْقَارِعَةُ,SOUND_AND_VOICE,ESCHATOLOGY,Warning & Intimidation,18,2,7
+101_6,فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ,COMMERCE_AND_EXCHANGE,HUMAN_AGENTS_AND_GROUPS,Clarification & Imagery,5,3,2
+101_7,فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ,PSYCHOLOGY_AND_EMOTION,ESCHATOLOGY,Clarification & Imagery,17,2,2
+101_8,وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ,TOOLS_AND_ARTIFACTS,DEEDS_AND_BEHAVIOR,Warning & Intimidation,19,1,7
+101_9,فَأُمُّهُۥ هَاوِيَةٌ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Warning & Intimidation,7,2,7
+103_2,إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ,BUILDINGS_AND_SHELTER,SPIRITUAL_PSYCHOLOGY,Warning & Intimidation,3,5,7
+104_7,تَطَّلِعُ عَلَى الْأَفْئِدَةِ,FAMILY_AND_SOCIETY,ESCHATOLOGY,Warning & Intimidation,7,2,7
+111_4,وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ,FIRE_AND_HEAT,DEEDS_AND_BEHAVIOR,Condemnation & Criticism,8,1,3
